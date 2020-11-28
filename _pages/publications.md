@@ -10,7 +10,8 @@ This page lists my accepted/in-review publications with links to the papers and 
 # Journal Publications
 **[J1] Inverse Statics Optimization for Compound Tensegrity Robots**
 
-DESCRIPTION HERE{: .notice}
+DESCRIPTION HERE
+{: .notice}
 
 [[Paper]](http://alberthli.github.io/files/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
