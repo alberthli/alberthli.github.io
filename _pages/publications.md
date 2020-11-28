@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+fontsize: 20pt
 ---
 
 <!-- {% if author.googlescholar %}
