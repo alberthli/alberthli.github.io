@@ -5,13 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-This page lists my accepted/in-review publications with links to the papers and supplemental material like media or code. If you're interested in any of my research in progress, please contact me directly.
+This page lists my accepted/in-review publications with more detail, links to the papers, and supplemental material like media or code. If you're interested in any of my research in progress, please contact me directly. For a more condensed overview of my research, look at my CV.
 
 # Journal Publications
 **[J1] Inverse Statics Optimization for Compound Tensegrity Robots**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
-DESCRIPTION HERE
+[_Tensegrities_](https://en.wikipedia.org/wiki/Tensegrity) are structures traditionally comprised of rigid bars held in equilibrium by a network of cables. Originally explored by architects and civil engineers, it was not until relatively recently that actuated tensegrities were studied in the field of robotics. As robots, tensegrities enjoy benefits such as lightweight construction and adjustable compliance.
+
+This project studied what we term _compound tensegrities_, whose rigid elements are not just purely compressive bars, but can take on any arbitrary geometry (and therefore also admit net moments about each rigid body). This allows more faithful bio-inspired designs at the expense of complicating traditional tensegrity modeling techniques. In our work, we reformulate the classic _force density method_ used for computing equilibrium forces in network structures to allow for analysis of compound tensegrities and derive a fast optimization-based shape controller that can also be used for quasi-static position control. Finally, the method is validated both in simulation and on a simple hardware test case.
 
 **Full Citation**  
 &nbsp;  
@@ -49,7 +51,7 @@ Katherine Lin Poggensee\*, **Albert Hao Li\***, Daniel Sotsaikich\*, Bike Zhang,
 &nbsp;&nbsp;&nbsp;&nbsp;author={Poggensee, Katherine Lin and Li, Albert Hao and Sotsaikich, Daniel and Zhang, Bike and Kotaru, Prasanth, and Mueller, Mark and Sreenath, Koushil},  
 &nbsp;&nbsp;&nbsp;&nbsp;journal={2020 IEEE European Control Conference (ECC)},  
 &nbsp;&nbsp;&nbsp;&nbsp;year={2020},  
-&nbsp;&nbsp;&nbsp;&nbsp;address={Saint Peterburg, Russia},  
+&nbsp;&nbsp;&nbsp;&nbsp;address={Saint Petersburg, Russia},  
 &nbsp;&nbsp;&nbsp;&nbsp;pages={875-880},  
 }
 {: .notice}
