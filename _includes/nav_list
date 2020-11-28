@@ -13,7 +13,7 @@
             <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
           {% elseif nav.url contains "CV" %}
             {% assign domain = "" %}
-            <a href="/files/CV.pdf"><span class="nav__sub-title">{{ nav.title }}</span></a>
+            <a target="_blank" href="/files/CV.pdf"><span class="nav__sub-title">{{ nav.title }}</span></a>
           {% else %}
             {% assign domain = base_path %}
           {% endif %}
