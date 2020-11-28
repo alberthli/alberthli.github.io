@@ -5,8 +5,7 @@ permalink: /teaching_outreach/
 author_profile: true
 ---
 
-## Academic Teaching
-**Teaching Assistantships**  
+## Teaching Assistantships
 * Fall 2020: Dynamical Systems, Vibration, and Control (ME161)
 
 ## Policy Debate
