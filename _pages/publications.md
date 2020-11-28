@@ -68,7 +68,7 @@ Katherine Lin Poggensee\*, **Albert Hao Li\***, Daniel Sotsaikich\*, Bike Zhang,
 
 Vacuum-based grasping and manipulation is a popular alternative to traditional parallel-jaw methods, since we only need to compute a single point of contact and we may be able to lift objects that are difficult to grasp otherwise. The goal of this project was deriving an analytical physics-based suction model, train a grasping planner to find good suction points on various objects from point cloud data, and implement the system on a real robot.
 
-My role on the project was designing new grippers that could interface with the ABB YuMi and replace its default grippers with lightweight and cost-effective alternatives. I was also responsible for hardware maintenance, including part replacements, fixing electronic parts and circuitry-related failures, and implementing new design features. Ultimately, Dex-Net 3.0 was able to achieve success rates of 98\%, 82\%, and 58\% on the "basic," "typical," and "adversarial" object categories, with adversarial performance improving to 81\% when trained specifically on adversarial objects.
+My role on the project was designing new grippers that could interface with the ABB YuMi and replace its default grippers with lightweight and cost-effective alternatives. I was also responsible for hardware maintenance, including part replacements, fixing electronic parts and circuitry-related failures, and implementing new design features. Ultimately, Dex-Net 3.0 was able to achieve success rates of 98%, 82%, and 58% on the "basic," "typical," and "adversarial" object categories, with adversarial performance improving to 81% when trained specifically on adversarial objects.
 
 **Full Citation**  
 &nbsp;  
@@ -90,9 +90,13 @@ Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Li**, David Gealy, Ken Goldber
 # Publications In Review
 
 **[R1] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/in_review/ro_submitted.pdf) [[Code]](https://github.com/wuphilipp/replay-overshooting)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/in_review/ro_submitted.pdf) [[Video]](https://www.youtube.com/watch?v=eA32XTNRSuY) [[Code]](https://github.com/wuphilipp/replay-overshooting)
 
-DESCRIPTION HERE. TODO: add link to ICRA video
+Humans are very skilled at spatiotemporal prediction, being able to predict the motion of objects or other agents with fairly minimal observations. This project sought to learn _latent dynamics models_ for the purpose of long-horizon spatiotemporal prediction on robots. As a prerequisite, we must be able to extract _latent states_ from sequences of _observations_. For example, we may be interested in predicting positions of objects (the states) from video frames (the observations). This process is called _posterior inference_.
+
+Many conventional methods in the learning literature conduct posterior inference using an inference network like a bi-RNN, which consumes the data and returns an estimate over some latent state. As it turns out, this is unnecessary, as classical state estimation theory allows approximate inference using methods like the extended Kalman filter, which requires only a dynamics network and an observation model, eliminating the need for a third inference network.
+
+We present results for such a model and also a new learning algorithm called _replay overshooting_ that prioritizes training the dynamics model over the observation model. We show that our method is effective on multiple types of data, such as stripped position data or image sequences, while remaining very parameter-efficient compared to existing methods in the literature. As an added bonus, our method allows seamlessly changing the learned model between discrete and continuous-time, the first such method that natively incorporates both perspectives for dynamics learning.
 
 **Full Citation**  
 &nbsp;  
