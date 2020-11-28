@@ -16,7 +16,10 @@ author_profile: true
 {% endfor %} -->
 
 ## Journal Publications
-**Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning**
+**[J1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning**
+
+
+
 [[Paper]](http://alberthli.github.io/files/paper1.pdf) [[Video]](https://www.youtube.com/watch?v=dZIHmcaTJ_c&feature=emb_title)
 ```
 @inproceedings{
