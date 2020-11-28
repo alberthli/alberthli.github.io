@@ -77,6 +77,6 @@ Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Li**, David Gealy, Ken Goldber
 
 DESCRIPTION HERE. TODO: add link to ICRA video
 
-[[Paper]](http://alberthli.github.io/files/ro_submitted.pdf)
+[[Paper]](http://alberthli.github.io/files/ro_submitted.pdf) [[Code]](https://github.com/wuphilipp/replay-overshooting)
 
 Albert Hao Li\*, Philipp Wu\*, Monroe Kennedy III, "Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021. \*Equal Contribution.
