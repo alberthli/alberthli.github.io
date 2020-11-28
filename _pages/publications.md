@@ -3,7 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-fontsize: 12pt
 ---
 
 <!-- {% if author.googlescholar %}
@@ -17,7 +16,7 @@ fontsize: 12pt
 {% endfor %} -->
 
 ## Journal Publications
-[J1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds
+[J1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds  
 	 Using a New Analytic Model and Deep Learning
 
 
