@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Outreach"
 permalink: /teaching_outreach/
 author_profile: true
 ---
@@ -10,3 +10,5 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+asdf
