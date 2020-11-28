@@ -5,6 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
+```{css, echo = FALSE}
+.remark-slide-content {
+  font-size: 28px;
+  padding: 20px 80px 20px 80px;
+}
+.remark-code, .remark-inline-code {
+  background: #f0f0f0;
+}
+.remark-code {
+  font-size: 24px;
+}
+.huge .remark-code { /*Change made here*/
+  font-size: 200% !important;
+}
+.tiny .remark-code { /*Change made here*/
+  font-size: 50% !important;
+}
+```
+
 ## Journal Publications
 **[J1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using a New Analytic Model and Deep Learning**
