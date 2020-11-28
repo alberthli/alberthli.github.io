@@ -10,14 +10,11 @@
           {% comment %}internal/external URL check{% endcomment %}
           {% if nav.url contains "://" %}
             {% assign domain = "" %}
-            <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
-          {% elseif nav.url contains "cv" %}
-            {% assign domain = "" %}
-            <a href="http://alberthli.github.io/files/cv/CV.pdf"><span class="nav__sub-title">{{ nav.title }}</span></a>
           {% else %}
             {% assign domain = base_path %}
-            <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
           {% endif %}
+
+          <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}

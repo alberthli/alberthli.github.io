@@ -11,51 +11,46 @@ redirect_from:
 
 [[PDF Version]](http://alberthli.github.io/files/cv/CV.pdf)
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+**Stanford University**  
+M.S. in Mechanical Engineering, Class of 2021  
+GPA: 4.150 / 4.000  
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**University of California, Berkeley**  
+B.S. in Mechanical Engineering, Class of 2019  
+Minor in Electrical Engineering and Computer Science (EECS)
+GPA: 3.928 / 4.000 (High Honors)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Experience
+**Assistive Robotics and Manipulation Lab**  
+PI: Monroe Kennedy III  
+Stanford University  
+10/19 - Present  
+Currently researching safe dynamical learning, prediction, and control for robots and human-robot interactions.  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Hybrid Robotics Lab**  
+PI: Koushil Sreenath  
+UC Berkeley  
+05/19 - 10/19  
+Developed real-time control algorithms for simultaneous ball juggling and balancing on the bipedal robot Cassie.
+
+**Berkeley Emergent Space Tensegrities Lab**  
+PI: Alice Agogino  
+UC Berkeley  
+09/18 - 10/19  
+Derived new models and shape control algorithms for compound tensegrity robots, applied results to design of spinally-actuated tensegrity locomotors.
+
+**Laboratory for Automation Science and Engineering**  
+PI: Ken Goldberg  
+UC Berkeley  
+02/17-12/17  
+Researched weight, cost, and strength optimization for the mechanical design of robotic manipulators using rapid prototyping methods.
+
+## Professional Experience
+**Apple Inc.**  
+Apple Watch Product Design Intern  
+01/18 - 08/18  
+Designed parts for the Apple Watch Series 4 and 5, researched tactile sensing technologies, and conducted experiments on dynamic human interaction and product usage behaviors.
+
+## Publications
+[J1] Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, “Inverse Statics Optimization for Compound Tensegrity Robots,” IEEE Robotics and Automation Letters, vol. 5, no. 3, pp. 3982-3989, 2020.
