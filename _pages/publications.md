@@ -36,7 +36,7 @@ DESCRIPTION HERE
 
 [[Paper]](http://alberthli.github.io/files/cassie.pdf) [[Video]](https://www.youtube.com/watch?v=tLrz_R_T6kg)
 
-Katherine Lin Poggensee&ast;, Albert Hao Li&ast;, Daniel Sotsaikich&ast;, Bike Zhang, Prasanth Kotaru, Mark Mueller, and Koushil Sreenath, "Ball Juggling on the Bipedal Robot Cassie," 2020 European Control Conference (ECC), Saint Petersburg, Russia, 2020, pp. 875-880. &ast;Equal Contribution.
+Katherine Lin Poggensee\*, Albert Hao Li\*, Daniel Sotsaikich\*, Bike Zhang, Prasanth Kotaru, Mark Mueller, and Koushil Sreenath, "Ball Juggling on the Bipedal Robot Cassie," 2020 European Control Conference (ECC), Saint Petersburg, Russia, 2020, pp. 875-880. \*Equal Contribution.
 
 ```
 @inproceedings{
@@ -79,4 +79,4 @@ DESCRIPTION HERE. TODO: add link to ICRA video
 
 [[Paper]](http://alberthli.github.io/files/ro_submitted.pdf)
 
-Albert Hao Li&ast;, Philipp Wu&ast;, Monroe Kennedy III, "Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021. &ast;Equal Contribution.
+Albert Hao Li\*, Philipp Wu\*, Monroe Kennedy III, "Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021. \*Equal Contribution.
