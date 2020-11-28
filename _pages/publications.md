@@ -51,7 +51,7 @@ Katherine Lin Poggensee&ast;, Albert Hao Li&ast;, Daniel Sotsaikich&ast;, Bike Z
 ```
 
 **[C1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using a New Analytic Model and Deep Learning**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using a New Analytic Model and Deep Learning**
 
 DESCRIPTION HERE
 
