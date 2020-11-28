@@ -35,7 +35,7 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 
 ## Conference Publications
 **[C2] Ball Juggling on the Bipedal Robot Cassie**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/conference/cassie.pdf) [[Video]](https://www.youtube.com/watch?v=tLrz_R_T6kg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/conference/cassie.pdf) [[Video]](https://www.youtube.com/watch?v=tLrz_R_T6kg) [[Media]](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uc-berkeley-cassie-cal-robot-juggle)
 
 To facilitate human-robot interactions and robotic multi-tasking in dynamical environments, we expect them to be able to reason accurately about contact. One of the simplest benchmarks for controlling via contact is the _robotic juggling_ task, which has been replicated before on quadrotors, robotic manipulators, and large humanoid robots.
 
