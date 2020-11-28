@@ -66,7 +66,9 @@ Katherine Lin Poggensee\*, **Albert Hao Li\***, Daniel Sotsaikich\*, Bike Zhang,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using a New Analytic Model and Deep Learning**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/conference/dexnet.pdf) [[Video]](https://www.youtube.com/watch?v=dZIHmcaTJ_c&feature=emb_title) [[Code]](https://github.com/BerkeleyAutomation/dex-net)
 
-DESCRIPTION HERE
+Vacuum-based grasping and manipulation is a popular alternative to traditional parallel-jaw methods, since we only need to compute a single point of contact and we may be able to lift objects that are difficult to grasp otherwise. The goal of this project was deriving an analytical physics-based suction model, train a grasping planner to find good suction points on various objects from point cloud data, and implement the system on a real robot.
+
+My role on the project was designing new grippers that could interface with the ABB YuMi and replace its default grippers with lightweight and cost-effective alternatives. I was also responsible for hardware maintenance, including part replacements, fixing electronic parts and circuitry-related failures, and implementing new design features. Ultimately, Dex-Net 3.0 was able to achieve success rates of 98\%, 82\%, and 58\% on the "basic," "typical," and "adversarial" object categories, with adversarial performance improving to 81\% when trained specifically on adversarial objects.
 
 **Full Citation**  
 &nbsp;  
