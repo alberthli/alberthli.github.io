@@ -11,13 +11,11 @@ This page lists my accepted/in-review publications with links to the papers and 
 **[J1] Inverse Statics Optimization for Compound Tensegrity Robots**
 
 DESCRIPTION HERE
-{: .notice}
 
 [[Paper]](http://alberthli.github.io/files/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
 Andrew Preston Sabelhaus, Albert Hao Li, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, "Inverse Statics Optimization for Compound Tensegrity Robots," _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020.
 
-```
 @article{
 	Sabelhaus2020_invstatopt,
 	title={Inverse Statics Optimization for Compound Tensegrity Robots},
@@ -28,7 +26,7 @@ Andrew Preston Sabelhaus, Albert Hao Li, Kimberley Sover, Jacob Madden, Andrew B
 	year={2020},
 	pages={3982-3989},
 }
-```
+{: .notice}
 
 # Conference Publications
 **[C2] Ball Juggling on the Bipedal Robot Cassie**
