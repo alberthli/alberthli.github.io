@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+This page lists my accepted/in-review publications with links to the papers and supplemental material like media or code. If you're interested in any of my research in progress, please contact me directly.
+
 ## Journal Publications
 **[J1] Inverse Statics Optimization for Compound Tensegrity Robots**
 
@@ -68,3 +70,13 @@ Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Li**, David Gealy, Ken Goldber
 	pages={5620-5627},
 }
 ```
+
+## Publications In Review
+
+**[R1] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter**
+
+DESCRIPTION HERE. TODO: add link to ICRA video
+
+[[Paper]](http://alberthli.github.io/files/ro_submitted.pdf)
+
+Albert Hao Li&ast;, Philipp Wu&ast;, Monroe Kennedy III, "Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021. &ast;Equal Contribution.
