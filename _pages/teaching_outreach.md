@@ -5,10 +5,9 @@ permalink: /teaching_outreach/
 author_profile: true
 ---
 
-<!-- {% include base_path %}
+## Academic Teaching
+**Teaching Assistantships**  
+* Fall 2020: Dynamical Systems, Vibration, and Control (ME161)
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-asdf
+## Policy Debate
+For two years during my undergraduate career at UC Berkeley, I was a volunteer policy debate mentor.

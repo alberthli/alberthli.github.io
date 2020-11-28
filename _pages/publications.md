@@ -7,7 +7,7 @@ author_profile: true
 
 This page lists my accepted/in-review publications with more detail, links to the papers, and supplemental material like media or code. If you're interested in any of my research in progress, please contact me directly. For a more condensed overview of my research, look at my CV.
 
-# Journal Publications
+## Journal Publications
 **[J1] Inverse Statics Optimization for Compound Tensegrity Robots**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
@@ -33,7 +33,7 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 }
 {: .notice}
 
-# Conference Publications
+## Conference Publications
 **[C2] Ball Juggling on the Bipedal Robot Cassie**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/conference/cassie.pdf) [[Video]](https://www.youtube.com/watch?v=tLrz_R_T6kg)
 
@@ -87,7 +87,7 @@ Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Li**, David Gealy, Ken Goldber
 }
 {: .notice}
 
-# Publications In Review
+## Publications In Review
 
 **[R1] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/in_review/ro_submitted.pdf) [[Video]](https://www.youtube.com/watch?v=eA32XTNRSuY) [[Code]](https://github.com/wuphilipp/replay-overshooting)
