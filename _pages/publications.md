@@ -9,7 +9,7 @@ This page lists my accepted/in-review publications with links to the papers and 
 
 # Journal Publications
 **[J1] Inverse Statics Optimization for Compound Tensegrity Robots**
-
+---
 DESCRIPTION HERE
 
 [[Paper]](http://alberthli.github.io/files/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
@@ -28,10 +28,11 @@ Andrew Preston Sabelhaus, Albert Hao Li, Kimberley Sover, Jacob Madden, Andrew B
 	pages={3982-3989},
 }
 ```
+---
 
 # Conference Publications
 **[C2] Ball Juggling on the Bipedal Robot Cassie**
-
+---
 DESCRIPTION HERE
 
 [[Paper]](http://alberthli.github.io/files/cassie.pdf) [[Video]](https://www.youtube.com/watch?v=tLrz_R_T6kg)
@@ -49,10 +50,12 @@ Katherine Lin Poggensee\*, Albert Hao Li\*, Daniel Sotsaikich\*, Bike Zhang, Pra
 	pages={875-880},
 }
 ```
+---
 
 **[C1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using a New Analytic Model and Deep Learning**
 
+---
 DESCRIPTION HERE
 
 [[Paper]](http://alberthli.github.io/files/dexnet.pdf) [[Video]](https://www.youtube.com/watch?v=dZIHmcaTJ_c&feature=emb_title) [[Code]](https://github.com/BerkeleyAutomation/dex-net)
@@ -70,13 +73,15 @@ Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Li**, David Gealy, Ken Goldber
 	pages={5620-5627},
 }
 ```
+---
 
 # Publications In Review
 
 **[R1] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter**
-
+---
 DESCRIPTION HERE. TODO: add link to ICRA video
 
 [[Paper]](http://alberthli.github.io/files/ro_submitted.pdf) [[Code]](https://github.com/wuphilipp/replay-overshooting)
 
 Albert Hao Li\*, Philipp Wu\*, Monroe Kennedy III, "Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter," _2021 IEEE International Conference on Robotics and Automation (ICRA)_, Xi'an, China, 2021. \*Equal Contribution.
+---
