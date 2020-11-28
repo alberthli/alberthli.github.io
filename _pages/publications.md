@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications.journal reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
 ## Journal Publications
 **[J1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using a New Analytic Model and Deep Learning**
@@ -23,9 +13,9 @@ DESCRIPTION HERE
 
 [[Paper]](http://alberthli.github.io/files/dexnet.pdf) [[Video]](https://www.youtube.com/watch?v=dZIHmcaTJ_c&feature=emb_title)
 
-Jeffrey Mahler, Matthew Matl, Xinyi Liu, Albert Li, David Gealy, Ken Goldberg, “Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning,” 2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, QLD, 2018, pp. 5620-5627.
+Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Li**, David Gealy, Ken Goldberg, “Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning,” 2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, QLD, 2018, pp. 5620-5627.
 
-```
+~~~
 @inproceedings{
 	Mahler2018_dexnet3,
 	title={Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning},
@@ -35,7 +25,7 @@ Jeffrey Mahler, Matthew Matl, Xinyi Liu, Albert Li, David Gealy, Ken Goldberg, �
 	address={Brisbane, QLD},
 	pages={5620-5627},
 }
-```
+~~~
 
 ## Conference Publications
 test
