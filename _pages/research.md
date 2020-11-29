@@ -23,6 +23,12 @@ This page lists my accepted/in-review publications with more detail, links to th
 <div class="boxed">
 
 Collaborators: [Philipp Wu](https://wuphilipp.github.io/), [Monroe Kennedy III](https://monroekennedy3.com/)
+
+[Meta-learning](https://arxiv.org/pdf/2004.05439.pdf), or learning-to-learn, is a relatively new sub-field in deep learning that involves training machines that are adaptable to a variety of tasks rather than specializing in any particular one. This paradigm is useful when considering cases where data are sparse or when training a model from scratch is simply impractical. Meta-learning is in fact the _default_ mode of learning for humans and other biological organisms: during childhood, we develop very strong priors for how the world roughly operate and tune our expectations when we observe task-specific information. For example, we have strong priors for how projectile motion should look (e.g. tossing a ball in the air), but we can adjust our spatiotemporal predictions of a ball-shaped balloon being thrown after we see it being tossed once.
+
+It's this adaptability that we are targeting in this project. We would like to investigate the _one-shot_ setting, where the agent gets to observe on one trajectory of some task to adjust its task-specific physics-based prior. Then, we would like the agent to predict the rest of any query trajectories we give it. For example, it gets to see some arbitrary object being pushed on a table. Then, given one second of new pushing data, we may ask it to predict the following 9 seconds.
+
+The key tool we are using is the extended Kalman filter, which we have used in a learning-based prediction setting with great success for single-task prediction (see my paper on Replay Overshooting). Our preliminary results suggest that on the [MIT Push](https://mcube.mit.edu/push-dataset/index.html) dataset, we have reasonable prediction quality, though we still need to implement more baseline models from the literature for fair comparisons.
 </div>
 </details>
 
@@ -31,6 +37,10 @@ Collaborators: [Philipp Wu](https://wuphilipp.github.io/), [Monroe Kennedy III](
 <div class="boxed">
 
 Collaborators: [Monroe Kennedy III](https://monroekennedy3.com/)
+
+Consider a situation where you are a leader in a group of heterogeneous robotic assistants and you want to carry some heavy object from one location to another through a busy environment. In this scenario, each agent has a distinct field of view, but ultimately would like to enforce some notion of safely carrying the object while still following the leader. Since humans don't have a WiFi or Bluetooth module in their brains, we additionally enforce that the cooperation is done without explicit communication except through sensed forces on the load.
+
+This project studies a heuristically-motivated decentralized dynamical prediction strategy where each agent estimates the aggregate behavior of every other agent in the system and tries to apply an input it believes will keep the load safe using [_control barrier functions_](https://arxiv.org/pdf/1903.11199.pdf). We also develop a notion of _dynamic trust_, which is a way for robots to mediate the amount of faith they have in the group to maintain safety. Our preliminary results in simulation show that this strategy is effective for following a nominal trajectory even when obstacles directly block the motion of the system.
 </div>
 </details>
 
@@ -39,6 +49,10 @@ Collaborators: [Monroe Kennedy III](https://monroekennedy3.com/)
 <div class="boxed">
 
 Collaborators: [Eley Ng](https://www.linkedin.com/in/eleyng/), [J.D. Kelly](https://www.linkedin.com/in/jd-kelly/), [Dylan Losey](https://dylanlosey.com/), [Dorsa Sadigh](https://dorsa.fyi/), [Monroe Kennedy III](https://monroekennedy3.com/)
+
+Consider an episodic setting where a robotic assistant and a human would like to carry an object through an environment. After some period of time, the robotic agent may develop some idea of the strategy employed by the human when carrying the object, and could use this to condition its own control strategy to best achieve consensus during the carrying process.
+
+This project studies the reinforcement learning setting where the robot may learn a conditional policy and an encoder for the human strategy, updating its models after each episode. Our goal is to replicate human-human behavior during the cooperative carrying process, so there may be a pre-training period to initialize the robot policy, followed by episodic adapatation. We are currently setting up a virtual simulation environment for human-human games for initial training data and will move to a physical platform for both data collection and model training later in 2021.
 </div>
 </details>
 
