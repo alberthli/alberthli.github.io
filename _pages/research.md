@@ -11,10 +11,8 @@ This page lists my accepted/in-review publications with more detail, links to th
 TODO: fill this in
 
 ## Test
-$ echo -e "<details><summary markdown='span'>Collapsed Block\n</summary>\n\n## Header\n</details>" | kramdown --parse-block-html
 <details>
-  <summary>Collapsed Block
-</summary>
+  <summary>Collapsed Block</summary>
 
   <h2 id="header">Header</h2>
 </details>
