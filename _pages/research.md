@@ -10,10 +10,17 @@ This page lists my accepted/in-review publications with more detail, links to th
 ## Current Research
 TODO: fill this in
 
-## Journal Publications
+## Test
+$ echo -e "<details><summary markdown='span'>Collapsed Block\n</summary>\n\n## Header\n</details>" | kramdown --parse-block-html
 <details>
-<summary>**[J1] Inverse Statics Optimization for Compound Tensegrity Robots**</summary>
-<p>
+  <summary>Collapsed Block
+</summary>
+
+  <h2 id="header">Header</h2>
+</details>
+
+## Journal Publications
+**[J1] Inverse Statics Optimization for Compound Tensegrity Robots**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
@@ -38,9 +45,6 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 &nbsp;&nbsp;&nbsp;&nbsp;pages={3982-3989},  
 }
 {: .notice}
-
-</p>
-</details>
 
 ## Conference Publications
 **[C2] Ball Juggling on the Bipedal Robot Cassie**  
