@@ -11,18 +11,15 @@ This page lists my accepted/in-review publications with more detail, links to th
 TODO: fill this in
 
 ## Test
-{::options parse_block_html="true" /}
+
 <details>
+<summary>some summary</summary>
 
-  <summary>Collapsed Block</summary>
+A list
+- Another list item
+- <details><summary>some summary</summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est tellus, convallis eget vulputate ut, eleifend vel mauris. Maecenas consequat aliquam tortor quis bibendum</details>
+- Another list item
 
-asdf
-
-```
-test
-```
-
-{::options parse_block_html="true" /}
 </details>
 
 ## Journal Publications
