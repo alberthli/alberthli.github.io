@@ -18,7 +18,7 @@ GPA: 4.150 / 4.000
 
 **University of California, Berkeley**  
 B.S. in Mechanical Engineering, Class of 2019  
-Minor in Electrical Engineering and Computer Science (EECS)
+Minor in Electrical Engineering and Computer Science (EECS)  
 GPA: 3.928 / 4.000 (High Honors)
 
 ## Research Experience
@@ -102,6 +102,6 @@ Co-taught student-led course on combat robot design, led weapons design for 60 p
 **Mechanical Engineering:** SolidWorks, Siemens NX, ASTM mechanical testing, statistical tolerance analysis, rapid prototyping
 
 ## Relevant Coursework
-**Mechanical Engineering:** Microprocessor-Based Mechanical Design, Lagrangian and Hamiltonian Dynamics, Mechanical Behavior of Materials, Heat Transfer, Mechatronics
-**Robotics and Control:** Dynamic Systems and Feedback, Model Predictive Control, Loop Shaping, Linear Systems (SISO and MIMO), Nonlinear Systems, Robot Autonomy, Multi-Robot Control, State Estimation and Filtering, Optimal and Learning-Based Control, Robust and Adaptive Control
-**Computer Science:** Data Structures, Discrete Math and Probability, Machine Learning, Decisionmaking Under Uncertainty, Convex Optimization, Meta- and Multi-Task Learning, Reinforcement Learning
+**Mechanical Engineering:** Microprocessor-Based Mechanical Design, Lagrangian and Hamiltonian Dynamics, Mechanical Behavior of Materials, Heat Transfer, Mechatronics  
+**Robotics and Control:** Dynamic Systems and Feedback, Model Predictive Control, Loop Shaping, Linear Systems (SISO and MIMO), Nonlinear Systems, Robot Autonomy, Multi-Robot Control, State Estimation and Filtering, Optimal and Learning-Based Control, Robust and Adaptive Control  
+**Computer Science:** Data Structures, Discrete Math and Probability, Machine Learning, Decisionmaking Under Uncertainty, Convex Optimization, Meta- and Multi-Task Learning, Reinforcement Learning  
