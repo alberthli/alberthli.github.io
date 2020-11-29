@@ -10,24 +10,9 @@ This page lists my accepted/in-review publications with more detail, links to th
 ## Current Research
 TODO: fill this in
 
-## Test
-
-<details>
-<summary><b>some summary</b></summary>
-
-A list
-- Another list item
-- <details><summary>some summary</summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est tellus, convallis eget vulputate ut, eleifend vel mauris. Maecenas consequat aliquam tortor quis bibendum</details>
-- Another list item
-
-```
-test block
-```
-
-</details>
-
 ## Journal Publications
-**[J1] Inverse Statics Optimization for Compound Tensegrity Robots**
+<details>
+<summary><b>[J1] Inverse Statics Optimization for Compound Tensegrity Robots</b></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
@@ -35,23 +20,30 @@ test block
 
 This project studied what we term _compound tensegrities_, whose rigid elements are not just purely compressive bars, but can take on any arbitrary geometry (and therefore also admit net moments about each rigid body). This allows more faithful bio-inspired designs at the expense of complicating traditional tensegrity modeling techniques. In our work, we reformulate the classic _force density method_ used for computing equilibrium forces in network structures to allow for analysis of compound tensegrities and derive a fast optimization-based shape controller that can also be used for quasi-static position control. Finally, the method is validated both in simulation and on a simple hardware test case.
 
-**Full Citation**  
-&nbsp;  
+<details>
+<summary><b>Full Citation</b></summary>
+
 Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, "Inverse Statics Optimization for Compound Tensegrity Robots," _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020.
-{: .notice}
-**Bibtex**  
-&nbsp;  
+
+</details>
+
+<details>
+<summary><b>Bibtex Citation</b></summary>
+```
 @article{  
-&nbsp;&nbsp;&nbsp;&nbsp;Sabelhaus2020_invstatopt,  
-&nbsp;&nbsp;&nbsp;&nbsp;title={Inverse Statics Optimization for Compound Tensegrity Robots},  
-&nbsp;&nbsp;&nbsp;&nbsp;author={Sabelhaus, Andrew Preston and Li, Albert Hao and Sover, Kimberley and Madden, Jacob and Barkan, Andrew and Agogino, Adrian and Agogino, Alice},  
-&nbsp;&nbsp;&nbsp;&nbsp;journal={IEEE Robotics and Automation Letters},  
-&nbsp;&nbsp;&nbsp;&nbsp;volume={5},  
-&nbsp;&nbsp;&nbsp;&nbsp;number={3},  
-&nbsp;&nbsp;&nbsp;&nbsp;year={2020},  
-&nbsp;&nbsp;&nbsp;&nbsp;pages={3982-3989},  
+  Sabelhaus2020_invstatopt,  
+  title={Inverse Statics Optimization for Compound Tensegrity Robots},  
+  author={Sabelhaus, Andrew Preston and Li, Albert Hao and Sover, Kimberley and Madden, Jacob and Barkan, Andrew and Agogino, Adrian and Agogino, Alice},  
+  journal={IEEE Robotics and Automation Letters},  
+  volume={5},  
+  number={3},  
+  year={2020},  
+  pages={3982-3989},  
 }
-{: .notice}
+```
+</details>
+
+</details>
 
 ## Conference Publications
 **[C2] Ball Juggling on the Bipedal Robot Cassie**  
