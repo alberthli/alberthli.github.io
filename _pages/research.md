@@ -15,10 +15,32 @@ author_profile: true
   }
 </style>
 
-This page lists my accepted/in-review publications with more detail, links to the papers, and supplemental material like media or code. I also provide short descriptions of my current research, but withhold some of the important technical details since the work is ongoing. To see the details of a particular project, click on the title. For more information on my current research, please email me directly. For a more condensed overview of my research, look at my CV.
+This page lists my accepted/in-review publications with more detail, links to the papers, and supplemental material like media or code. I also provide short descriptions of my current research, but withhold some of the important technical details since the work is ongoing. Click on project titles to see more detail. For more information on my current research, please email me directly. For a more condensed overview of my research, look at my CV.
 
 ## Current Research
-TODO: fill this in
+<details>
+<summary><b>One-Shot Learning Physics Models with the Meta-Extended Kalman Filter</b></summary>
+<div class="boxed">
+
+Collaborators: [Philipp Wu](https://wuphilipp.github.io/), [Monroe Kennedy III](https://monroekennedy3.com/)
+</div>
+</details>
+
+<details>
+<summary><b>Safe Multi-Agent Collaborative Transport Without Communication</b></summary>
+<div class="boxed">
+
+Collaborators: [Monroe Kennedy III](https://monroekennedy3.com/)
+</div>
+</details>
+
+<details>
+<summary><b>Human-Robot Cooperative Transport</b></summary>
+<div class="boxed">
+
+Collaborators: [Eley Ng](https://www.linkedin.com/in/eleyng/), [J.D. Kelly](https://www.linkedin.com/in/jd-kelly/), [Dylan Losey](https://dylanlosey.com/), [Dorsa Sadigh](https://dorsa.fyi/), [Monroe Kennedy III](https://monroekennedy3.com/)
+</div>
+</details>
 
 ## Journal Publications
 <details>
@@ -78,7 +100,7 @@ Katherine Lin Poggensee\*, **Albert Hao Li\***, Daniel Sotsaikich\*, Bike Zhang,
 </details>
 
 <details>
-<summary><b>Bibtex</b></summary>
+<summary><b>Bibtex Citation</b></summary>
 
 ```
 @inproceedings{  
@@ -113,7 +135,7 @@ Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Li**, David Gealy, Ken Goldber
 </details>
 
 <details>
-<summary><b>Bibtex</b></summary>
+<summary><b>Bibtex Citation</b></summary>
 
 ```
 @inproceedings{  
