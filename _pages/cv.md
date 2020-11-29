@@ -58,7 +58,7 @@ Derived new models and shape control algorithms for compound tensegrity robots, 
 **Laboratory for Automation Science and Engineering**  
 PI: Ken Goldberg  
 UC Berkeley  
-02/17-12/17  
+02/17 - 12/17  
 Researched weight, cost, and strength optimization for the mechanical design of robotic manipulators using rapid prototyping methods.
 </div>
 

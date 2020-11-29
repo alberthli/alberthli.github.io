@@ -58,7 +58,7 @@ This project studies the reinforcement learning setting where the robot may lear
 
 ## Journal Publications
 <details>
-<summary><b>[J1] Inverse Statics Optimization for Compound Tensegrity Robots</b></summary>
+<summary><b>[J1] Inverse Statics Optimization for Compound Tensegrity Robots (2020)</b></summary>
 
 <div class="boxed">
 
@@ -96,7 +96,7 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 
 ## Conference Publications
 <details>
-<summary><b>[C2] Ball Juggling on the Bipedal Robot Cassie</b></summary>
+<summary><b>[C2] Ball Juggling on the Bipedal Robot Cassie (2020)</b></summary>
 <div class="boxed">
 
 [[Paper]](http://alberthli.github.io/files/conference/cassie.pdf) [[Video]](https://www.youtube.com/watch?v=tLrz_R_T6kg) [[Media]](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uc-berkeley-cassie-cal-robot-juggle)
@@ -133,7 +133,7 @@ Katherine Lin Poggensee\*, **Albert Hao Li\***, Daniel Sotsaikich\*, Bike Zhang,
 </details>
 
 <details>
-<summary><b>[C1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning</b></summary>
+<summary><b>[C1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning (2018)</b></summary>
 <div class="boxed">
 
 [[Paper]](http://alberthli.github.io/files/conference/dexnet.pdf) [[Video]](https://www.youtube.com/watch?v=dZIHmcaTJ_c&feature=emb_title) [[Code]](https://github.com/BerkeleyAutomation/dex-net)
@@ -169,7 +169,7 @@ Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Li**, David Gealy, Ken Goldber
 
 ## Publications In Review
 <details>
-<summary><b>[R1] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter</b></summary>
+<summary><b>[R1] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (2021)</b></summary>
 <div class="boxed">
 
 [[Paper]](http://alberthli.github.io/files/in_review/ro_submitted.pdf) [[Video]](https://www.youtube.com/watch?v=eA32XTNRSuY) [[Code]](https://github.com/wuphilipp/replay-overshooting)
