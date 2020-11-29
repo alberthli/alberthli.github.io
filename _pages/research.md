@@ -13,6 +13,7 @@ TODO: fill this in
 ## Journal Publications
 <details>
 <summary>**[J1] Inverse Statics Optimization for Compound Tensegrity Robots**</summary>
+<p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
@@ -37,6 +38,8 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 &nbsp;&nbsp;&nbsp;&nbsp;pages={3982-3989},  
 }
 {: .notice}
+
+</p>
 </details>
 
 ## Conference Publications
