@@ -74,29 +74,29 @@ Designed parts for the Apple Watch Series 4 and 5, researched tactile sensing te
 ## Journal Publications
 <div class="boxed">
 
-J1. Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, “Inverse Statics Optimization for Compound Tensegrity Robots,” _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020.
+[J1] Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, “Inverse Statics Optimization for Compound Tensegrity Robots,” _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020.
 </div>
 
 ## Conference Publications
 <div class="boxed">
 
-C2. Katherine Lin Poggensee\*, **Albert Hao Li\***, Daniel Sotsaikich\*, Bike Zhang, Prasanth Kotaru, Mark Mueller, and Koushil Sreenath, “Ball Juggling on the Bipedal Robot Cassie,” _2020 European Control Conference (ECC)_, Saint Petersburg, Russia, 2020, pp. 875-880. **\*Equal Contribution**.
+[C2] Katherine Lin Poggensee\*, **Albert Hao Li\***, Daniel Sotsaikich\*, Bike Zhang, Prasanth Kotaru, Mark Mueller, and Koushil Sreenath, “Ball Juggling on the Bipedal Robot Cassie,” _2020 European Control Conference (ECC)_, Saint Petersburg, Russia, 2020, pp. 875-880. **\*Equal Contribution**.
 
-C1. Jeffrey Mahler, Matthew Matl, Xinyu Liu, **Albert Li**, David Gealy, Ken Goldberg, “Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning,” _2018 IEEE International Conference on Robotics and Automation (ICRA)_, Brisbane, QLD, 2018, pp. 5620-5627.
+[C1] Jeffrey Mahler, Matthew Matl, Xinyu Liu, **Albert Li**, David Gealy, Ken Goldberg, “Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning,” _2018 IEEE International Conference on Robotics and Automation (ICRA)_, Brisbane, QLD, 2018, pp. 5620-5627.
 </div>
 
 ## Publications In Review
 <div class="boxed">
 
-R1. **Albert Hao Li\***, Philipp Wu\*, Monroe Kennedy III, “Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter,” _2021 IEEE International Conference on Robotics and Automation (ICRA)_, Xi’an, China, 2021. **\*Equal Contribution**.
+[R1] **Albert Hao Li\***, Philipp Wu\*, Monroe Kennedy III, “Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter,” _2021 IEEE International Conference on Robotics and Automation (ICRA)_, Xi’an, China, 2021. **\*Equal Contribution**.
 </div>
 
 ## Publications In Progress
 <div class="boxed">
 
-P2. **Albert Hao Li**, Philipp Wu, Monroe Kennedy III, “One-Shot Learning Physics Models with the Meta-Extended Kalman Filter.”
+[P2] **Albert Hao Li**, Philipp Wu, Monroe Kennedy III, “One-Shot Learning Physics Models with the Meta-Extended Kalman Filter.”
 
-P1. **Albert Hao Li**, Monroe Kennedy III, “Safe Multi-Agent Collaborative Transport Without Communication.”
+[P1] **Albert Hao Li**, Monroe Kennedy III, “Safe Multi-Agent Collaborative Transport Without Communication.”
 </div>
 
 ## Poster Presentations
