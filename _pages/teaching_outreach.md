@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Teaching Assistantships
-* Fall 2020: Dynamical Systems, Vibration, and Control (ME161)
+* Stanford Fall 2020: Dynamical Systems, Vibration, and Control (ME161)
 
 ## Policy Debate Mentorship
 For two years during my undergraduate career at UC Berkeley, I was a volunteer policy debate mentor for high school students. I worked with the [Bay Area Urban Debate League's](https://www.baudl.org/) outreach program, which paired mentors with low-resource schools in the Bay Area. This coordination was done through UC Berkeley's BAUDL Bears program. I also remotely acted as a mentor outside of BAUDL for schools in California and Texas that solicited my help.
