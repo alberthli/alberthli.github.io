@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-This page lists my accepted/in-review publications with more detail, links to the papers, and supplemental material like media or code. I also provide short descriptions of my current research, but withhold some of the important technical details since the work is ongoing. For more information on my current research, please email me directly. For a more condensed overview of my research, look at my CV.
+This page lists my accepted/in-review publications with more detail, links to the papers, and supplemental material like media or code. I also provide short descriptions of my current research, but withhold some of the important technical details since the work is ongoing. To see the details of a particular project, click on the title. For more information on my current research, please email me directly. For a more condensed overview of my research, look at my CV.
 
 ## Current Research
 TODO: fill this in
@@ -14,7 +14,7 @@ TODO: fill this in
 <details>
 <summary><b>[J1] Inverse Statics Optimization for Compound Tensegrity Robots</b></summary>
 
-<p style="border:3px; border-style:solid; border-color:#000000; padding: 1em;">
+<div class="boxed">
 
 [[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
@@ -46,7 +46,7 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 ```
 </details>
 
-</p>
+</div>
 </details>
 
 ## Conference Publications
