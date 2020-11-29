@@ -7,11 +7,9 @@ author_profile: true
 
 <style>
   .boxed {
-    background: lightgrey;
     color: black;
     border: 3px solid black;
     margin: 0px auto;
-    width: 456px;
     padding: 10px;
     border-radius: 10px;
   }
