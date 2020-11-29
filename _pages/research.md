@@ -13,12 +13,16 @@ TODO: fill this in
 ## Test
 
 <details>
-<summary>some summary</summary>
+<summary><b>some summary</b></summary>
 
 A list
 - Another list item
 - <details><summary>some summary</summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est tellus, convallis eget vulputate ut, eleifend vel mauris. Maecenas consequat aliquam tortor quis bibendum</details>
 - Another list item
+
+```
+test block
+```
 
 </details>
 
