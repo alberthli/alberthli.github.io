@@ -5,6 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+  .boxed {
+    background: lightgrey;
+    color: black;
+    border: 3px solid black;
+    margin: 0px auto;
+    width: 456px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+</style>
+
 This page lists my accepted/in-review publications with more detail, links to the papers, and supplemental material like media or code. I also provide short descriptions of my current research, but withhold some of the important technical details since the work is ongoing. To see the details of a particular project, click on the title. For more information on my current research, please email me directly. For a more condensed overview of my research, look at my CV.
 
 ## Current Research
