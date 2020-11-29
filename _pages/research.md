@@ -14,7 +14,9 @@ TODO: fill this in
 <details>
 <summary><b>[J1] Inverse Statics Optimization for Compound Tensegrity Robots</b></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
+<p style="border:3px; border-style:solid; border-color:#000000; padding: 1em;">
+
+[[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
 [_Tensegrities_](https://en.wikipedia.org/wiki/Tensegrity) are structures traditionally comprised of rigid bars held in equilibrium by a network of cables. Originally explored by architects and civil engineers, it was not until relatively recently that actuated tensegrities were studied in the field of robotics. As robots, tensegrities enjoy benefits such as lightweight construction and adjustable compliance, exhibiting features of both fully rigid and fully soft robots.
 
@@ -29,6 +31,7 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 
 <details>
 <summary><b>Bibtex Citation</b></summary>
+
 ```
 @article{  
   Sabelhaus2020_invstatopt,  
@@ -43,6 +46,7 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 ```
 </details>
 
+</p>
 </details>
 
 ## Conference Publications
