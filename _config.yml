@@ -154,7 +154,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
+# markdown: kramdown
+markdown: CommonMarkGhPages  # test
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
