@@ -13,7 +13,8 @@ TODO: fill this in
 ## Test
 {::options parse_block_html="true" /}
 <details>
-<summary>Collapsed Block</summary>
+
+  <summary>Collapsed Block</summary>
 
 asdf
 
@@ -21,6 +22,7 @@ asdf
 test
 ```
 
+{::options parse_block_html="true" /}
 </details>
 
 ## Journal Publications
