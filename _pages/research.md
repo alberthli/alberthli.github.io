@@ -14,7 +14,7 @@ TODO: fill this in
 <details markdown="1">
   <summary markdown="1">Collapsed Block</summary>
 
-  <h2 id="header" markdown="1">Header
+  <h2 id="header" markdown="1">Header</h2>
 </details>
 
 ## Journal Publications
