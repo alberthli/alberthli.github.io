@@ -5,7 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-This page lists my accepted/in-review publications with more detail, links to the papers, and supplemental material like media or code. If you're interested in any of my research in progress, please contact me directly. For a more condensed overview of my research, look at my CV.
+This page lists my accepted/in-review publications with more detail, links to the papers, and supplemental material like media or code. I also provide short descriptions of my current research, but withhold some of the important technical details since the work is ongoing. For more information on my current research, please email me directly. For a more condensed overview of my research, look at my CV.
+
+## Current Research
+TODO: fill this in
 
 ## Journal Publications
 **[J1] Inverse Statics Optimization for Compound Tensegrity Robots**  
