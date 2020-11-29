@@ -25,6 +25,7 @@ TODO: fill this in
 <summary><b>[J1] Inverse Statics Optimization for Compound Tensegrity Robots</b></summary>
 
 <div class="boxed">
+
 [[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
 [_Tensegrities_](https://en.wikipedia.org/wiki/Tensegrity) are structures traditionally comprised of rigid bars held in equilibrium by a network of cables. Originally explored by architects and civil engineers, it was not until relatively recently that actuated tensegrities were studied in the field of robotics. As robots, tensegrities enjoy benefits such as lightweight construction and adjustable compliance, exhibiting features of both fully rigid and fully soft robots.
@@ -61,6 +62,7 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 <details>
 <summary><b>[C2] Ball Juggling on the Bipedal Robot Cassie</b></summary>
 <div class="boxed">
+
 [[Paper]](http://alberthli.github.io/files/conference/cassie.pdf) [[Video]](https://www.youtube.com/watch?v=tLrz_R_T6kg) [[Media]](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uc-berkeley-cassie-cal-robot-juggle)
 
 To facilitate human-robot interactions and robotic multi-tasking in dynamical environments, we expect them to be able to reason accurately about contact. One of the simplest benchmarks for controlling via contact is the _robotic juggling_ task, which has been replicated before on quadrotors, robotic manipulators, and large humanoid robots.
@@ -97,6 +99,7 @@ Katherine Lin Poggensee\*, **Albert Hao Li\***, Daniel Sotsaikich\*, Bike Zhang,
 <details>
 <summary><b>[C1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning</b></summary>
 <div class="boxed">
+
 [[Paper]](http://alberthli.github.io/files/conference/dexnet.pdf) [[Video]](https://www.youtube.com/watch?v=dZIHmcaTJ_c&feature=emb_title) [[Code]](https://github.com/BerkeleyAutomation/dex-net)
 
 Vacuum-based grasping and manipulation is a popular alternative to traditional parallel-jaw methods, since we only need to compute a single point of contact and we may be able to lift objects that are difficult to grasp otherwise. The goal of this project was deriving an analytical physics-based suction model, training a grasping planner to find good suction points on various objects from point cloud data, and implementing the system on a real robot.
@@ -132,6 +135,7 @@ Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Li**, David Gealy, Ken Goldber
 <details>
 <summary><b>[R1] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter</b></summary>
 <div class="boxed">
+
 [[Paper]](http://alberthli.github.io/files/in_review/ro_submitted.pdf) [[Video]](https://www.youtube.com/watch?v=eA32XTNRSuY) [[Code]](https://github.com/wuphilipp/replay-overshooting)
 
 Humans are very skilled at spatiotemporal prediction, being able to predict the motion of objects or other agents with fairly minimal observations. This project sought to learn _latent dynamics models_ for the purpose of long-horizon spatiotemporal prediction on robots. As a prerequisite, we must be able to extract _latent states_ from sequences of _observations_. For example, we may be interested in predicting positions of objects (the states) from video frames (the observations). This process is called _posterior inference_.
