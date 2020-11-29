@@ -11,10 +11,16 @@ This page lists my accepted/in-review publications with more detail, links to th
 TODO: fill this in
 
 ## Test
-<details markdown="1">
-  <summary markdown="1">Collapsed Block</summary>
+{::options parse_block_html="true" /}
+<details>
+<summary>Collapsed Block</summary>
 
-  <h2 id="header" markdown="1">Header</h2>
+asdf
+
+```
+test
+```
+
 </details>
 
 ## Journal Publications
