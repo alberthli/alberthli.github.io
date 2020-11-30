@@ -184,17 +184,9 @@ Robotics Competition: _Dorm Ex Machina_
 UC Berkeley  
 Collaborators: [Adam Castiel](https://www.linkedin.com/in/adam-castiel-15b61a123/), [Denny Min](https://www.linkedin.com/in/syungdennymin/)
 
-DESCRIPTION
-</div>
-</details>
+[[Video]](https://www.youtube.com/watch?v=GfPKv-0IBVw)
 
-<details>
-<summary><b>Cal Band Formation Solver</b></summary>
-<div class="boxed">
+This project was a part of a larger one whose goal was to prototype a whiteboard marker printer, a device that could analyze an image and reproduce it on a whiteboard. My portion of the project was the image analysis algorithm that took an image as an input and produced two outputs: a visual of the path a marker would take to draw the image, and a set of instructions passed to servos commanding the device. I was successful in implementing the algorithm, but the resolution of the servos permitted only simple images to be drawn.
 
-Course Project: _Intro to Computer Programming for Scientists and Engineers (E 7)_  
-UC Berkeley
-
-DESCRIPTION
-</div>
+The path generated for the marker was meant to replicate human tendencies in drawing features. For example, outlines would tend to be traversed first with the details of the interior being filled in after. This feature-based approach to drawing was designed to produce a more artistic rather than mechanistic device. The path generator was written in Java and the generated path was converted into servo commands for the physical drawing. Unfortunately, little documentation remains of the mechanical system, which was later destroyed after the competition to re-use parts.
 </details>
