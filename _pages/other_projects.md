@@ -35,7 +35,7 @@ DESCRIPTION
 
 Course Project: _Optimal and Learning-Based Control (AA 203)_  
 Stanford University  
-Collaborators: Daniel Sotsaikich, Brent Yi
+Collaborators: [Daniel Sotsaikich](https://www.linkedin.com/in/dsotsaikich/), [Brent Yi](https://brentyi.com/)
 
 DESCRIPTION
 </div>
@@ -47,7 +47,7 @@ DESCRIPTION
 
 Course Project: _State Estimation and Filtering for Aerospace Systems (AA 273)_  
 Stanford University  
-Collaborators: Brent Yi
+Collaborators: [Brent Yi](https://brentyi.com/)
 
 DESCRIPTION
 </div>
@@ -59,7 +59,7 @@ DESCRIPTION
 
 Course Project: _Multi-Robot Control, Communication, and Sensing (AA 277)_  
 Stanford University  
-Collaborators: Bibit Bianchini, Lauren Luo
+Collaborators: [Bibit Bianchini](http://www.bianchini-love.com/), [Lauren Luo](https://www.linkedin.com/in/lauren-luo-989945b4/)
 
 DESCRIPTION
 </div>
@@ -67,12 +67,12 @@ DESCRIPTION
 
 ## 2019
 <details>
-<summary><b>Autonomous "Delivery" Robot</b></summary>
+<summary><b>Autonomous "Delivery" Vehicle</b></summary>
 <div class="boxed">
 
 Course Project: _Intro to Robot Autonomy (AA 274A)_  
 Stanford University  
-Collaborators: Daniel Sotsaikich, Brent Yi
+Collaborators: [Daniel Sotsaikich](https://www.linkedin.com/in/dsotsaikich/), [Brent Yi](https://brentyi.com/)
 
 DESCRIPTION
 </div>
@@ -84,7 +84,7 @@ DESCRIPTION
 
 Course Project: _Mechatronics (ME 102B)_  
 UC Berkeley  
-Collaborators: Miranda Maravilla-Louie, Matt Morrison, Sepehr Rostamzadeh, Daniel Sotsaikich, Kriya Wong
+Collaborators: [Miranda Maravilla-Louie](https://www.linkedin.com/in/mirandajml/), Matt Morrison, [Sepehr Rostamzadeh](https://www.linkedin.com/in/sepehr-rostamzadeh/), [Daniel Sotsaikich](https://www.linkedin.com/in/dsotsaikich/), [Kriya Wong](https://www.linkedin.com/in/kriya-wong-1431a5107/)
 
 DESCRIPTION
 </div>
@@ -96,7 +96,7 @@ DESCRIPTION
 
 Course Project: _Nonlinear Systems (ME C237)_  
 UC Berkeley  
-Collaborators: Daniel Sotsaikich, Philipp Wu
+Collaborators: [Daniel Sotsaikich](https://www.linkedin.com/in/dsotsaikich/), [Philipp Wu](https://wuphilipp.github.io/)
 
 DESCRIPTION
 </div>
@@ -108,7 +108,7 @@ DESCRIPTION
 <div class="boxed">
 
 Personal Project  
-Collaborators: Philipp Wu
+Collaborators: [Philipp Wu](https://wuphilipp.github.io/)
 
 DESCRIPTION
 </div>
@@ -121,7 +121,7 @@ DESCRIPTION
 
 Course Project: _Model Predictive Control and Loop Shaping (ME C231A)_  
 UC Berkeley  
-Collaborators: Rachel Thomasson, Philipp Wu, Allan Zhao
+Collaborators: [Rachel Thomasson](https://www.linkedin.com/in/rachelthomasson/), [Philipp Wu](https://wuphilipp.github.io/), [Allan Zhao](https://www.linkedin.com/in/allan-zhao-0410682b/)
 
 DESCRIPTION
 </div>
@@ -133,7 +133,7 @@ DESCRIPTION
 
 Course Project: _Intro to Robotics (EE C106A)_  
 UC Berkeley  
-Collaborators: Kireet Agrawal, David Gealy, Rachel Thomasson, Philipp Wu
+Collaborators: [Kireet Agrawal](https://www.linkedin.com/in/kireetagrawal/), [David Gealy](https://www.linkedin.com/in/david-gealy-726741b7/), [Rachel Thomasson](https://www.linkedin.com/in/rachelthomasson/), [Philipp Wu](https://wuphilipp.github.io/)
 
 DESCRIPTION
 </div>
@@ -145,7 +145,7 @@ DESCRIPTION
 
 Course Project: _Microprocessor-Based Mechanical Systems (ME 135)_  
 UC Berkeley  
-Collaborators: Denny Min, Vedang Patankar, Patrick Scholl
+Collaborators: [Denny Min](https://www.linkedin.com/in/syungdennymin/), [Vedang Patankar](https://www.linkedin.com/in/vedang-patankar-57180317a/), [Patrick Scholl](https://www.linkedin.com/in/patrick-scholl-0a5a1b10b/)
 
 DESCRIPTION
 </div>
@@ -157,7 +157,7 @@ DESCRIPTION
 
 Course Project: _Advanced Programming with MATLAB (E 177)_  
 UC Berkeley  
-Collaborators: Dominic Croce, Jake Ramirez
+Collaborators: [Dominic Croce](https://www.linkedin.com/in/dominic-croce-262a13ab/), [Jacob Ramirez](https://www.linkedin.com/in/jacob-ramirez-098/)
 
 DESCRIPTION
 </div>
@@ -169,7 +169,7 @@ DESCRIPTION
 
 3D Printing Hack-a-thon: _3DMC_  
 UC Berkeley  
-Collaborators: Kireet Agrawal, Travis Brashears, Sepehr Rostamzadeh, Philipp Wu
+Collaborators: [Kireet Agrawal](https://www.linkedin.com/in/kireetagrawal/), [Travis Brashears](http://www.travisbrashears.com/), [Sepehr Rostamzadeh](https://www.linkedin.com/in/sepehr-rostamzadeh/), [Philipp Wu](https://wuphilipp.github.io/)
 
 DESCRIPTION
 </div>
@@ -182,7 +182,7 @@ DESCRIPTION
 
 Robotics Competition: _Dorm Ex Machina_  
 UC Berkeley  
-Collaborators: Adam Castiel, Denny Min
+Collaborators: [Adam Castiel](https://www.linkedin.com/in/adam-castiel-15b61a123/), [Denny Min](https://www.linkedin.com/in/syungdennymin/)
 
 DESCRIPTION
 </div>
