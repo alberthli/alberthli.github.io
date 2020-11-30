@@ -14,4 +14,5 @@ I received my B.S. in Mechanical Engineering with a minor in Electrical Engineer
 
 From January to August of 2018, I took a brief hiatus from school to work as an intern with the Apple Watch Product Design team. I worked on design iteration for the Apple Watch Series 4 and 5 as well as research and development on new tactile sensing technologies. My day-to-day responsibilities consisted of run-of-the-mill product design tasks like statistical tolerance analysis, design reviews, and failure analysis trials with the reliability department.
 
-To contact me, please email at alberthli [at] berkeley [dot] edu or ahli [at] stanford [dot] edu.
+# Contact
+Please contact me via email. My two email usernames are {alberthli, ahli}, and the domains corresponding to them respectively are {berkeley.edu, stanford.edu}.
