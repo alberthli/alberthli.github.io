@@ -15,14 +15,14 @@ author_profile: true
   }
 </style>
 
-This page details non-research projects that I've undertaken personally or for coursework. Click on project titles to see more detail. 
+This page details non-research projects that I've undertaken personally or for coursework. Click on project titles to see more detail. Some minor projects have been omitted for brevity.
 
 ## 2020
 <details>
 <summary><b>Forecasting Object-Pushing with the Meta-Extended Kalman Filter</b></summary>
 <div class="boxed">
 
-Course Project: Deep Multi-Task and Meta Learning (CS 330)
+Course Project: _Deep Multi-Task and Meta Learning (CS 330)_  
 Stanford University
 
 DESCRIPTION
@@ -33,8 +33,8 @@ DESCRIPTION
 <summary><b>Safe Multi-Rate Quadcopter Trajectory-Tracking</b></summary>
 <div class="boxed">
 
-Course Project: Optimal and Learning-Based Control (AA 203)
-Stanford University
+Course Project: _Optimal and Learning-Based Control (AA 203)_  
+Stanford University  
 Collaborators: Daniel Sotsaikich, Brent Yi
 
 DESCRIPTION
@@ -45,8 +45,8 @@ DESCRIPTION
 <summary><b>Continuous-Time Neural Filters</b></summary>
 <div class="boxed">
 
-Course Project: State Estimation and Filtering for Aerospace Systems (AA 273)
-Stanford University
+Course Project: _State Estimation and Filtering for Aerospace Systems (AA 273)_  
+Stanford University  
 Collaborators: Brent Yi
 
 DESCRIPTION
@@ -57,8 +57,8 @@ DESCRIPTION
 <summary><b>Safe Multi-Agent Collaborative Transport</b></summary>
 <div class="boxed">
 
-Course Project: Multi-Robot Control, Communication, and Sensing (AA 277)
-Stanford University
+Course Project: _Multi-Robot Control, Communication, and Sensing (AA 277)_  
+Stanford University  
 Collaborators: Bibit Bianchini, Lauren Luo
 
 DESCRIPTION
@@ -70,8 +70,8 @@ DESCRIPTION
 <summary><b>Autonomous "Delivery" Robot</b></summary>
 <div class="boxed">
 
-Course Project: Intro to Robot Autonomy (AA 274A)
-Stanford University
+Course Project: _Intro to Robot Autonomy (AA 274A)_  
+Stanford University  
 Collaborators: Daniel Sotsaikich, Brent Yi
 
 DESCRIPTION
@@ -82,8 +82,8 @@ DESCRIPTION
 <summary><b>Stump Vinyl</b></summary>
 <div class="boxed">
 
-Course Project: Mechatronics (ME 102B)
-UC Berkeley
+Course Project: _Mechatronics (ME 102B)_  
+UC Berkeley  
 Collaborators: Miranda Maravilla-Louie, Matt Morrison, Sepehr Rostamzadeh, Daniel Sotsaikich, Kriya Wong
 
 DESCRIPTION
@@ -94,8 +94,8 @@ DESCRIPTION
 <summary><b>Dynamic Robot Arm Trajectory-Tracking</b></summary>
 <div class="boxed">
 
-Course Project: Nonlinear Systems (ME C237)
-UC Berkeley
+Course Project: _Nonlinear Systems (ME C237)_  
+UC Berkeley  
 Collaborators: Daniel Sotsaikich, Philipp Wu
 
 DESCRIPTION
@@ -107,7 +107,7 @@ DESCRIPTION
 <summary><b>Attitude and Heading Reference System</b></summary>
 <div class="boxed">
 
-Personal Project
+Personal Project  
 Collaborators: Philipp Wu
 
 DESCRIPTION
@@ -119,8 +119,8 @@ DESCRIPTION
 <summary><b>Simulated Robot Arm MPC</b></summary>
 <div class="boxed">
 
-Course Project: Model Predictive Control and Loop Shaping (ME C231A)
-UC Berkeley
+Course Project: _Model Predictive Control and Loop Shaping (ME C231A)_  
+UC Berkeley  
 Collaborators: Rachel Thomasson, Philipp Wu, Allan Zhao
 
 DESCRIPTION
@@ -131,8 +131,8 @@ DESCRIPTION
 <summary><b>Kinematic Ball-Catching</b></summary>
 <div class="boxed">
 
-Course Project: Intro to Robotics (EE C106A)
-UC Berkeley
+Course Project: _Intro to Robotics (EE C106A)_  
+UC Berkeley  
 Collaborators: Kireet Agrawal, David Gealy, Rachel Thomasson, Philipp Wu
 
 DESCRIPTION
@@ -143,8 +143,8 @@ DESCRIPTION
 <summary><b>Beacon-Following Car</b></summary>
 <div class="boxed">
 
-Course Project: Microprocessor-Based Mechanical Systems (ME135)
-UC Berkeley
+Course Project: _Microprocessor-Based Mechanical Systems (ME 135)_  
+UC Berkeley  
 Collaborators: Denny Min, Vedang Patankar, Patrick Scholl
 
 DESCRIPTION
@@ -155,8 +155,8 @@ DESCRIPTION
 <summary><b>Simply Statics</b></summary>
 <div class="boxed">
 
-Course Project: _Advanced Programming with MATLAB (E177)_
-UC Berkeley
+Course Project: _Advanced Programming with MATLAB (E 177)_  
+UC Berkeley  
 Collaborators: Dominic Croce, Jake Ramirez
 
 DESCRIPTION
@@ -167,8 +167,8 @@ DESCRIPTION
 <summary><b>Smart Exercise Band</b></summary>
 <div class="boxed">
 
-3D Printing Hack-a-thon: _3DMC_
-UC Berkeley
+3D Printing Hack-a-thon: _3DMC_  
+UC Berkeley  
 Collaborators: Kireet Agrawal, Travis Brashears, Sepehr Rostamzadeh, Philipp Wu
 
 DESCRIPTION
@@ -180,8 +180,8 @@ DESCRIPTION
 <summary><b>Whiteboard Bot</b></summary>
 <div class="boxed">
 
-Robotics Competition: _Dorm Ex Machina_
-UC Berkeley
+Robotics Competition: _Dorm Ex Machina_  
+UC Berkeley  
 Collaborators: Adam Castiel, Denny Min
 
 DESCRIPTION
@@ -192,7 +192,7 @@ DESCRIPTION
 <summary><b>Cal Band Formation Solver</b></summary>
 <div class="boxed">
 
-Course Project: _Intro to Computer Programming for Scientists and Engineers (E7)_
+Course Project: _Intro to Computer Programming for Scientists and Engineers (E 7)_  
 UC Berkeley
 
 DESCRIPTION
