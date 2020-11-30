@@ -15,7 +15,7 @@ author_profile: true
   }
 </style>
 
-This page lists my accepted/in-review publications with more detail, links to the papers, and supplemental material like media or code. I also provide short descriptions of my current research, but withhold some of the important technical details since the work is ongoing. Click on project titles to see more detail. For more information on my current research, please email me directly. For a more condensed overview of my research, look at my CV.
+This page lists my accepted/in-review publications with more detail, links to the papers, and supplemental material like media, code, and citations. I also provide short descriptions of my current research, but withhold some of the important technical details since the work is ongoing. Click on project titles to see more detail. For more information on my current research, please email me directly. For a more condensed overview of my research, look at my CV.
 
 ## Current Research
 <details>
