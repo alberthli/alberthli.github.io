@@ -25,7 +25,7 @@ This page details non-research projects that I've undertaken personally or for c
 Course Project: _Deep Multi-Task and Meta Learning (CS 330)_  
 Stanford University
 
-This project was my initial attempt at the one-shot learning using meta-EKFs project on my research page. For more detail, see my research blurb about the project. Like in continuous-time neural filters, we approach the problem of meta-learning using classic state estimation techniques. By nature, the Kalman filter is somewhat like an adaptive controller (but for states, not for system parameters). The key idea here is seeing if we can use a scheme similar to the decades-old [dual estimation](https://papers.nips.cc/paper/1999/file/f50a6c02a3fc5a3a5d4d9391f05f3efc-Paper.pdf) filter schemes to perform task-specific adaptation like in [Model-Agnostic Meta-Learning](https://arxiv.org/pdf/1703.03400.pdf), but backpropagating through filter operations rather than through gradient steps. The report has been withheld since it contains information that will be in the final paper.
+This project was my initial attempt at the one-shot learning using meta-EKFs project on my research page. For more detail, see my research blurb about the project. Like in continuous-time neural filters, we approach the problem of meta-learning using classic state estimation techniques. By nature, the Kalman filter is somewhat like an adaptive controller (but "adapting" to unknown states, not system parameters). The key idea here is seeing if we can use a scheme similar to the decades-old [dual estimation](https://papers.nips.cc/paper/1999/file/f50a6c02a3fc5a3a5d4d9391f05f3efc-Paper.pdf) filter schemes to perform task-specific adaptation like in [Model-Agnostic Meta-Learning](https://arxiv.org/pdf/1703.03400.pdf), but backpropagating through filter operations rather than through gradient steps. The report has been withheld since it contains information that will be in the final paper.
 </div>
 </details>
 
@@ -239,6 +239,9 @@ Collaborators: [Kireet Agrawal](https://www.linkedin.com/in/kireetagrawal/), [Tr
 This project sought to prototype a flexible workout band that could analyze the movements of an individual engaging in physical activity and give encouragement or advice in response. The allotted time for the hack-a-thon was 24 hours. We were successful in producing the band, collecting data, and returning basic feedback to the user. However, more complex analysis of the data was not possible given our time constraints. We placed 2nd at the competition.
 
 The band itself was 3D-printed on a flexible filament called NinjaFlex. This material printed extremely slowly and was very prone to failure - we had about 3 failed prints over the duration of the hack-a-thon, but we were lucky to be able to print on multiple printers at once. The user wears the armband on the upper arm and performs exercises. Onboard is a 9-axis IMU that measures angular data during a motion. There is also an audio unit and speaker that can give live feedback to the user, though this feature was not fully implemented during the duration of the hack-a-thon.
+
+![asdf](http://alberthli.github.io/files/other_projects/exercise_band/armband.jpg)
+
 </div>
 </details>
 

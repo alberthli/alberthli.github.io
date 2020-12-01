@@ -18,6 +18,7 @@ redirect_from:
 </style>
 
 {% include base_path %}
+Updated Nov. 2020.
 
 [[PDF Version]](http://alberthli.github.io/files/cv/CV.pdf)
 
