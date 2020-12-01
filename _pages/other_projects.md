@@ -59,7 +59,15 @@ While most filter-based dynamics learning algorithms (e.g. [Deep Markov Models](
 
 The key idea behind the filter is _posterior inference_, or computing a belief over some latent state from a sequence of observations. The classical Kalman filter provides a very fast, iterative way to conduct posterior inference, which makes it perfect for an optimization-based approach towards learning dynamical and observation models. 
 
-In these preliminary results, we found that there were some benefits to the continuous-time formulation, though our results were a little raw (preceding our Replay Overshooting paper by several months). Ultimately, the project was fairly novel and it was fun finding rarely-explored perspectives connecting state estimation theory and deep learning. 
+In these preliminary results, we found that there were some benefits to the continuous-time formulation, though our results were a little raw (preceding our Replay Overshooting paper by several months). Ultimately, the project was fairly novel and it was fun finding rarely-explored perspectives connecting state estimation theory and deep learning.
+
+---
+
+<p align="center">
+  <img src="http://alberthli.github.io/files/other_projects/ctnfs/vdp_pred.png" />
+</p>
+<p style="text-align: center; font-size: 16px"><i>The model learning the Van der Pol vector field. Blue is noisy ground truth and red is predicted trajectories. Yellow regions indicate an initial filtering period prior to prediction.</i></p>
+
 </div>
 </details>
 
@@ -80,7 +88,7 @@ This project is my first go at the multi-agent collaborative transport project o
 <p align="center">
   <img src="http://alberthli.github.io/files/other_projects/safe_carry/load_path.png" />
 </p>
-<p style="text-align: center; font-size: 16px"><i>The full trajectory with obstacles and some close-ups of evasive action. Lasers that did not detect obstacles are not shown for improved clarity.</i></p>
+<p style="text-align: center; font-size: 16px"><i>The full trajectory with obstacles and some close-ups of evasive action in a 4-agent team. Each agent has detection lasers and a restricted field of view. Lasers that did not detect obstacles are not shown for improved clarity.</i></p>
 
 </div>
 </details>
