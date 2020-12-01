@@ -225,6 +225,12 @@ UC Berkeley
 This project sought to implement a solver for statically determinate 2D beams with transverse loads applied as an educational tool for new engineering undergrads. In particular, my goal was for the solver to analytically calculate shear and moment diagrams for an arbitrarily high number of loads, including distributed loads represented by arbitrary real functions. Online beam calculators exist, but typically impose limits on how many loads can be applied and only consider uniform distributed loads. This project was part of a larger submission with three distinct parts. There were no collaborators for this portion of the project.
 
 The calculator analyzed the system constraints defined by the user to verify that the constraints were valid. Then, the boundary conditions were applied and symbolic integration was performed to retrieve the shear and moment functions describing the beam's reaction to external loadings.
+
+<p align="center">
+  <img src="http://alberthli.github.io/files/other_projects/simply_statics/gui.png" />
+</p>
+<p style="text-align: center; font-size: 16px"><i>The GUI. Note the complex user-defined transverse load.</i></p>
+
 </div>
 </details>
 
