@@ -122,9 +122,9 @@ Designed parts for the Apple Watch Series 4 and 5, researched tactile sensing te
 ## Service / Outreach
 <div class="boxed">
 
-**Technical Policy Debate Mentor**  
+**Policy Debate Mentor**  
 06/15 - 06/17  
-Bay Area Urban Debate League, Bellarmine College Preparatory, Katy Taylor High School, Oakland Technical High School
+Mentored underrepresented high school students in policy debate through the Bay Area Urban Debate League’s mentorship program, helped develop scientific literacy on topics like robotics, automation, and artificial intelligence. Also mentored high schools in California and Texas remotely, coaching several teams to national success at the _Tournament of Champions_ and the National Speech and Debate Association’s _National Tournament_.
 </div>
 
 ## Student Groups
