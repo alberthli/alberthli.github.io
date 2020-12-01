@@ -71,7 +71,17 @@ Course Project: _Multi-Robot Control, Communication, and Sensing (AA 277)_
 Stanford University  
 Collaborators: [Bibit Bianchini](http://www.bianchini-love.com/), [Lauren Luo](https://www.linkedin.com/in/lauren-luo-989945b4/)
 
+[[Slides]](https://docs.google.com/presentation/d/1x-2FnyPR2dk_yOQGTGBPL0lex5EPH7kUlvsOLxj1c68/edit?usp=sharing)
+
 This project is my first go at the multi-agent collaborative transport project on my research page. For the research-level detail, see my blurb on the research page. Some of the interesting results from the project implementation are shown here. I've withheld the project report and code, since those will end up being part of the paper results.
+
+---
+
+<p align="center">
+  <img src="http://alberthli.github.io/files/other_projects/safe_carry/load_path.png" />
+</p>
+<p style="text-align: center; font-size: 16px"><i>The full trajectory with obstacles and some close-ups of evasive action. Lasers that did not detect obstacles are not shown for improved clarity.</i></p>
+
 </div>
 </details>
 
