@@ -124,7 +124,7 @@ Stumpy is now retired and resides with Matt's parents in San Diego.
 <p style="text-align: center; font-size: 16px"><i>The interior of the enclosure after the milling process.</i></p>
 
 <p align="center">
-  <img src="http://alberthli.github.io/files/other_projects/stump_vinyl/finish_stump.png" />
+  <img src="http://alberthli.github.io/files/other_projects/stump_vinyl/finished_stump.png" />
 </p>
 <p style="text-align: center; font-size: 16px"><i>The finished record player.</i></p>
 
