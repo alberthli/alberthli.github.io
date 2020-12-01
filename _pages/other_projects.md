@@ -192,6 +192,14 @@ The arm, its model, and all control code are part of the [_Blue_](https://www.be
 The arm was mounted onto a static frame clamped onto a table. Additionally, ball-tracking was done using a Kinect, which was mounted snugly onto an auxiliary frame that I attached onto the main base. Rather than a traditional end-effector, a velcro ball and a corresponding pad was used to perform the catching. Note the Vive virtual reality trackers attached to the arm's links. These were not used for position feedback, but rather for initial calibration of the arm's position for use in rviz to visualize the arm on lab computers.
 
 The Kinect computed the ball position using a pinhole model and the trajectory of the ball was estimated using projectile motion equations estimated using a Kalman filter. We fixed a desired distance of catching, which formed a sphere, and continuously recomputed the intersection between the ball trajectory and this sphere, which became the desired pad position.
+
+---
+
+<p align="center">
+  <img src="http://alberthli.github.io/files/other_projects/ball_catch/catches.gif" />
+</p>
+<p style="text-align: center; font-size: 16px"><i>David tossing the ball and Blue catching it.</i></p>
+
 </div>
 </details>
 
@@ -210,6 +218,8 @@ The system was an RC car with several layers. The inner layer housed the motors 
 The beacon was composed of a single ultrasonic transducer and an array of IR LEDs. The IR signal was used to synchronize the clocks between the ultrasonic transducer and the receiver array on the car so that accurate time of flight could be recorded both for distance and direction control. I designed the circuit for the beacon and implemented a state machine architecture to distinguish between waiting on IR signals, waiting on ultrasonic signals, and interpreting ultrasonic signals to actuate the motors.
 
 The other mode of the vehicle was GPS coordinate-tracking. In this mode, the user simply input global coordinates to command the vehicle to and it would automatically move to that location. Unfortunately, the car was destroyed for parts after the project and there wasn't too much documentation during the process.
+
+---
 
 <p align="center">
   <img src="http://alberthli.github.io/files/other_projects/beacon_car/gui.png" />
@@ -237,6 +247,8 @@ This project sought to implement a solver for statically determinate 2D beams wi
 
 The calculator analyzed the system constraints defined by the user to verify that the constraints were valid. Then, the boundary conditions were applied and symbolic integration was performed to retrieve the shear and moment functions describing the beam's reaction to external loadings.
 
+---
+
 <p align="center">
   <img src="http://alberthli.github.io/files/other_projects/simply_statics/gui.png" />
 </p>
@@ -256,6 +268,8 @@ Collaborators: [Kireet Agrawal](https://www.linkedin.com/in/kireetagrawal/), [Tr
 This project sought to prototype a flexible workout band that could analyze the movements of an individual engaging in physical activity and give encouragement or advice in response. The allotted time for the hack-a-thon was 24 hours. We were successful in producing the band, collecting data, and returning basic feedback to the user. However, more complex analysis of the data was not possible given our time constraints. We placed 2nd at the competition.
 
 The band itself was 3D-printed on a flexible filament called NinjaFlex. This material printed extremely slowly and was very prone to failure - we had about 3 failed prints over the duration of the hack-a-thon, but we were lucky to be able to print on multiple printers at once. The user wears the armband on the upper arm and performs exercises. Onboard is a 9-axis IMU that measures angular data during a motion. There is also an audio unit and speaker that can give live feedback to the user, though this feature was not fully implemented during the duration of the hack-a-thon.
+
+---
 
 <p align="center">
   <img src="http://alberthli.github.io/files/other_projects/exercise_band/armband.jpg" />
