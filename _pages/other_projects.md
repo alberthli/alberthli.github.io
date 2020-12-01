@@ -210,6 +210,17 @@ The system was an RC car with several layers. The inner layer housed the motors 
 The beacon was composed of a single ultrasonic transducer and an array of IR LEDs. The IR signal was used to synchronize the clocks between the ultrasonic transducer and the receiver array on the car so that accurate time of flight could be recorded both for distance and direction control. I designed the circuit for the beacon and implemented a state machine architecture to distinguish between waiting on IR signals, waiting on ultrasonic signals, and interpreting ultrasonic signals to actuate the motors.
 
 The other mode of the vehicle was GPS coordinate-tracking. In this mode, the user simply input global coordinates to command the vehicle to and it would automatically move to that location. Unfortunately, the car was destroyed for parts after the project and there wasn't too much documentation during the process.
+
+<p align="center">
+  <img src="http://alberthli.github.io/files/other_projects/beacon_car/gui.png" />
+</p>
+<p style="text-align: center; font-size: 16px"><i>The GUI for the car's settings.</i></p>
+
+<p align="center">
+  <img src="http://alberthli.github.io/files/other_projects/beacon_car/car_move.gif" />
+</p>
+<p style="text-align: center; font-size: 16px"><i>The car responding to the beacon during a test session.</i></p>
+
 </div>
 </details>
 
