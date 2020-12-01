@@ -133,6 +133,14 @@ This project sought to control a 6-DOF robot arm along a pre-computed trajectory
 The arm, its model, and all control code are part of the [_Blue_](https://www.berkeleyopenarms.org/) project (now at Berkeley Open Arms), and are the product of research done from UC Berkeley's [Robot Learning Lab](http://rll.berkeley.edu). I have no affiliation with the RLL.
 
 Since we had direct access to the arm's physical parameters, we could derive an analytical model for the robot dynamics from standard open-chain manipulator models. We let some symbolic computations run for a few days to compute all the necessary matrix functions, then compiled the results into fast C++ functions. We also generated smooth trajectories using target points and cubic spline interpolation. Our desired trajectory was just chosen as three random points that the robot cycled between. After some iteration, we found that some PD-style modifications to the I/O linearization controller were enough to achieve fairly good tracking. For more details, see the slides.
+
+---
+
+<p align="center">
+  <img src="http://alberthli.github.io/files/other_projects/dyntrajtrack/cycle.gif" />
+</p>
+<p style="text-align: center; font-size: 16px"><i>Blue tracking a cyclic trajectory.</i></p>
+
 </div>
 </details>
 
