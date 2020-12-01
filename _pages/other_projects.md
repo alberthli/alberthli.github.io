@@ -240,7 +240,9 @@ This project sought to prototype a flexible workout band that could analyze the 
 
 The band itself was 3D-printed on a flexible filament called NinjaFlex. This material printed extremely slowly and was very prone to failure - we had about 3 failed prints over the duration of the hack-a-thon, but we were lucky to be able to print on multiple printers at once. The user wears the armband on the upper arm and performs exercises. Onboard is a 9-axis IMU that measures angular data during a motion. There is also an audio unit and speaker that can give live feedback to the user, though this feature was not fully implemented during the duration of the hack-a-thon.
 
-![asdf](http://alberthli.github.io/files/other_projects/exercise_band/armband.jpg)
+<p align="center">
+  <img src="http://alberthli.github.io/files/other_projects/exercise_band/armband.jpg" />
+</p>
 
 </div>
 </details>
