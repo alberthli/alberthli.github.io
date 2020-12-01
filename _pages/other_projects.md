@@ -25,7 +25,8 @@ This page details non-research projects that I've undertaken personally or for c
 Course Project: _Deep Multi-Task and Meta Learning (CS 330)_  
 Stanford University
 
-This project was my initial attempt at the one-shot learning using meta-EKFs project on my research page. For more detail, see my research blurb about the project. Like in continuous-time neural filters, we approach the problem of meta-learning using classic state estimation techniques. By nature, the Kalman filter is somewhat like an adaptive controller (but "adapting" to unknown states, not system parameters). The key idea here is seeing if we can use a scheme similar to the decades-old [dual estimation](https://papers.nips.cc/paper/1999/file/f50a6c02a3fc5a3a5d4d9391f05f3efc-Paper.pdf) filter schemes to perform task-specific adaptation like in [Model-Agnostic Meta-Learning](https://arxiv.org/pdf/1703.03400.pdf), but backpropagating through filter operations rather than through gradient steps. The report has been withheld since it contains information that will be in the final paper.
+This project was my initial attempt at the one-shot learning using meta-EKFs project on my research page. For more detail, see my research blurb about the project. Like in continuous-time neural filters, we approach the problem of meta-learning using classic state estimation techniques. By nature, the Kalman filter is somewhat like an adaptive controller (but "adapting" to unknown states, not system parameters). The key idea here is seeing if we can use a scheme similar to the decades-old [dual estimation](https://papers.nips.cc/paper/1999/file/f50a6c02a3fc5a3a5d4d9391f05f3efc-Paper.pdf) filter schemes to perform task-specific adaptation like in [Model-Agnostic Meta-Learning](https://arxiv.org/pdf/1703.03400.pdf), but backpropagating through filter operations rather than through gradient steps. The report and preliminary results been withheld since this information may make its way into an upcoming paper.
+
 </div>
 </details>
 
@@ -42,6 +43,8 @@ Collaborators: [Daniel Sotsaikich](https://www.linkedin.com/in/dsotsaikich/), [B
 This project sought to implement the multi-rate safe control scheme from [[this paper]](https://arxiv.org/pdf/2004.01761.pdf) in simulation. In the paper, they consider the simple case of a segway, while we instead consider here the 3D motion of a quadcopter.
 
 The key idea is that we can maintain two controllers: one which operates slowly and generates high-level goals using some computationally-intensive planning scheme like MPC. A second fast controller maintains immediate safety using control barrier functions, which prevents the system from colliding with obstacles in the environment. We show that there are control frequencies where the slow controller alone fails, but the combination of the slow and fast controllers succeed in stabilizing the quadcopter to a desired trajectory safely.
+
+To see the controller in action, check out the linked video!
 </div>
 </details>
 
