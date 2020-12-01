@@ -115,6 +115,19 @@ The tone arm of a record player is a delicate piece: it acts as the part holding
 The whole system featured a fairly interconnected set of electronic parts all powered at different voltage levels. Our goal was to fully integrate the power, speaker, motor control, and audio processing circuits together on a physically small module that was easy to design around and that minimized the weight of the player. Most of the electronic components were bought off-the-shelf, including a buck converter, the Teensy 3.6 as the microcontroller, the audio adapter board for signal processing, the motor driver board and motor, a logic level shifter, and and amp to go along with the speakers. I also wrote some low-level code to read the motor encoders and implemented a simple PID scheme to control the motor speed.
 
 Stumpy is now retired and resides with Matt's parents in San Diego.
+
+---
+
+<p align="center">
+  <img src="http://alberthli.github.io/files/other_projects/stump_vinyl/stump_innards.jpg" />
+</p>
+<p style="text-align: center; font-size: 16px"><i>The interior of the enclosure after the milling process.</i></p>
+
+<p align="center">
+  <img src="http://alberthli.github.io/files/other_projects/stump_vinyl/finish_stump.png" />
+</p>
+<p style="text-align: center; font-size: 16px"><i>The finished record player.</i></p>
+
 </div>
 </details>
 
