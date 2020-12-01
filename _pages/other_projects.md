@@ -343,4 +343,6 @@ Collaborators: [Adam Castiel](https://www.linkedin.com/in/adam-castiel-15b61a123
 This project was a part of a larger one whose goal was to prototype a whiteboard marker printer, a device that could analyze an image and reproduce it on a whiteboard. My portion of the project was the image analysis algorithm that took an image as an input and produced two outputs: a visual of the path a marker would take to draw the image, and a set of instructions passed to servos commanding the device. I was successful in implementing the algorithm, but the resolution of the servos permitted only simple images to be drawn.
 
 The path generated for the marker was meant to replicate human tendencies in drawing features. For example, outlines would tend to be traversed first with the details of the interior being filled in after. This feature-based approach to drawing was designed to produce a more artistic rather than mechanistic device. The path generator was written in Java and the generated path was converted into servo commands for the physical drawing. Unfortunately, little documentation remains of the mechanical system, which was later destroyed after the competition to re-use parts.
+
+To visualize the algorithm, check out the linked video!
 </details>
