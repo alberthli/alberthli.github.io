@@ -172,6 +172,14 @@ Model predictive control operates on the principle of solving constrained finite
 To reduce computation time, at each time step I linearized the dynamics around the current state of the system. Our controller divided the trajectory-tracking problem into several smaller ones whose end conditions were satisfied when the end-effector position was close to the next point in our discretized trajectory. The end-effector would attempt to travel in a straight line in Cartesian space between these points. We also showed that our controller is quite robust to random Gaussian force disturbances applied to the end-effector.
 
 The approach taken here was quite naive, and it was a while before I learned more advanced optimal control techniques like iLQR or techniques in sequential convex programming.
+
+---
+
+<p align="center">
+  <img src="http://alberthli.github.io/files/other_projects/simmpc/disturbances.gif" />
+</p>
+<p style="text-align: center; font-size: 16px"><i>The simulated controller rejecting disturbances while tracking a trajectory.</i></p>
+
 </div>
 </details>
 
