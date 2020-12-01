@@ -242,9 +242,8 @@ The band itself was 3D-printed on a flexible filament called NinjaFlex. This mat
 
 <p align="center">
   <img src="http://alberthli.github.io/files/other_projects/exercise_band/armband.jpg" />
-
-  test caption
 </p>
+<p style="text-align: center;"><i>Me volunteering my arm for evaluating the band during prototyping.</i></p>
 
 </div>
 </details>
