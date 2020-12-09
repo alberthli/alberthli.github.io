@@ -22,7 +22,7 @@ In the name of transparency, I will upload official anonymous student evaluation
 <summary><b>Dynamical Systems, Vibration, and Control (ME161)</b></summary>
 <div class="boxed">
 
-Stanford University
+Stanford University  
 Fall 2020
 
 [[Evaluations]](http://alberthli.github.io/files/teaching_evals/me161_evals.pdf)
