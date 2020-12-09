@@ -16,7 +16,21 @@ author_profile: true
 </style>
 
 ## Teaching Assistantships
-* Stanford Fall 2020: Dynamical Systems, Vibration, and Control (ME161)
+In the name of transparency, I will upload official anonymous student evaluations of my performance here.
+
+<details>
+<summary><b>Dynamical Systems, Vibration, and Control (ME161)</b></summary>
+<div class="boxed">
+
+Stanford University
+Fall 2020
+
+[[Evaluations]](http://alberthli.github.io/files/teaching_evals/me161_evals.pdf)
+
+This course primarily focused on first and second-order linear ordinary differential equations, their solutions, characteristics of their time-domain responses, and step/harmonic inputs. In the included evaluations, 18/40 of the students in the course submitted a specific evaluation for my performance.
+
+</div>
+</details>
 
 ## Policy Debate Mentorship
 For two years during my undergraduate career at UC Berkeley, I was a volunteer policy debate mentor for high school students. I worked with the [Bay Area Urban Debate League's](https://www.baudl.org/) outreach program, which paired mentors with low-resource schools in the Bay Area. This coordination was done through UC Berkeley's BAUDL Bears program. I also remotely acted as a mentor outside of BAUDL for schools in California and Texas that solicited my help.
