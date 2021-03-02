@@ -75,7 +75,8 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 
 **Accepted. Currently being revised.**
 
-<!-- [[Paper]](http://alberthli.github.io/files/in_review/ro_submitted.pdf) -->[[Video]](https://www.youtube.com/watch?v=eA32XTNRSuY) [[Code]](https://github.com/wuphilipp/replay-overshooting)
+<!-- [[Paper]](http://alberthli.github.io/files/in_review/ro_submitted.pdf) -->
+[[Video]](https://www.youtube.com/watch?v=eA32XTNRSuY) [[Code]](https://github.com/wuphilipp/replay-overshooting)
 
 Humans are very skilled at spatiotemporal prediction, being able to predict the motion of objects or other agents with fairly minimal observations. This project sought to learn _latent dynamics models_ for the purpose of long-horizon spatiotemporal prediction on robots. As a prerequisite, we must be able to extract _latent states_ from sequences of _observations_. For example, we may be interested in predicting positions of objects (the states) from video frames (the observations). This process is called _posterior inference_.
 
@@ -89,6 +90,7 @@ We present results for such a model and also a new learning algorithm called _re
 **Albert Hao Li\***, Philipp Wu\*, Monroe Kennedy III, "Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter," _2021 IEEE International Conference on Robotics and Automation (ICRA)_, Xi'an, China, 2021. \*Equal Contribution.
 </details>
 
+<details>
 <summary><b>Bibtex Citation</b></summary>
 
 ```
