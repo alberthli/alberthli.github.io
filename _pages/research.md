@@ -104,6 +104,8 @@ We present results for such a model and also a new learning algorithm called _re
 ```
 </details>
 
+</details>
+
 <details>
 <summary><b>[C2] Ball Juggling on the Bipedal Robot Cassie (2020)</b></summary>
 <div class="boxed">
