@@ -94,8 +94,7 @@ We present results for such a model and also a new learning algorithm called _re
 ```
 @inproceedings{
   liwu_2021ReplayOvershooting,
-  title={{Replay Overshooting}: Learning Stochastic Latent Dynamics with the
-  Extended Kalman Filter},
+  title={{Replay Overshooting}: Learning Stochastic Latent Dynamics with the Extended Kalman Filter},
   author={A. {Li} and P. {Wu} and M. {Kennedy}},
   booktitle={2021 International Conference on Robotics and Automation (ICRA)},
   year={2021},
