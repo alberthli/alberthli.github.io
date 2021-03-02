@@ -19,32 +19,6 @@ This page lists my accepted/in-review publications with more detail, links to th
 
 ## Current Research
 <details>
-<summary><b>One-Shot Learning Physics Models with the Meta-Extended Kalman Filter</b></summary>
-<div class="boxed">
-
-Collaborators: [Philipp Wu](https://wuphilipp.github.io/), [Monroe Kennedy III](https://monroekennedy3.com/)
-
-[Meta-learning](https://arxiv.org/pdf/2004.05439.pdf), or learning-to-learn, is a relatively new sub-field in deep learning that involves training machines that are adaptable to a variety of tasks rather than specializing in any particular one. This paradigm is useful when considering cases where data are sparse or when training a model from scratch is simply impractical. Meta-learning is in fact the _default_ mode of learning for humans and other biological organisms: during childhood, we develop very strong priors for how the world roughly operate and tune our expectations when we observe task-specific information. For example, we have strong priors for how projectile motion should look (e.g. tossing a ball in the air), but we can adjust our spatiotemporal predictions of a ball-shaped balloon being thrown after we see it being tossed once.
-
-It's this adaptability that we are targeting in this project. We would like to investigate the _one-shot_ setting, where the agent gets to observe on one trajectory of some task to adjust its task-specific physics-based prior. Then, we would like the agent to predict the rest of any query trajectories we give it. For example, it gets to see some arbitrary object being pushed on a table. Then, given one second of new pushing data, we may ask it to predict the following nine seconds.
-
-The key tool we are using is the extended Kalman filter, which we have used in a learning-based prediction setting with great success for single-task prediction (see my paper on Replay Overshooting). Our preliminary results suggest that on the [MIT Push](https://mcube.mit.edu/push-dataset/index.html) dataset, we have reasonable prediction quality, though we still need to implement more baseline models from the literature for fair comparisons.
-</div>
-</details>
-
-<details>
-<summary><b>Safe Multi-Agent Collaborative Transport Without Communication</b></summary>
-<div class="boxed">
-
-Collaborators: [Monroe Kennedy III](https://monroekennedy3.com/)
-
-Consider a situation where you are a leader in a group of heterogeneous robotic assistants and you want to carry some heavy object from one location to another through a busy environment. In this scenario, each agent has a distinct field of view, but ultimately would like to enforce some notion of safely carrying the object while still following the leader. Since humans don't have a WiFi or Bluetooth module in their brains, we additionally enforce that the cooperation is done without explicit communication except through sensed forces on the load.
-
-This project studies a heuristically-motivated decentralized dynamical prediction strategy where each agent estimates the aggregate behavior of every other agent in the system and tries to apply an input it believes will keep the load safe using [_control barrier functions_](https://arxiv.org/pdf/1903.11199.pdf). We also develop a notion of _dynamic trust_, which is a way for robots to mediate the amount of faith they have in the group to maintain safety. Our preliminary results in simulation show that this strategy is effective for following a nominal trajectory even when obstacles directly block the motion of the system.
-</div>
-</details>
-
-<details>
 <summary><b>Human-Robot Cooperative Transport</b></summary>
 <div class="boxed">
 
@@ -95,6 +69,40 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 </details>
 
 ## Conference Publications
+<details>
+<summary><b>[C3] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (2021)</b></summary>
+<div class="boxed">
+
+**Accepted. Currently being revised.**
+
+<!-- [[Paper]](http://alberthli.github.io/files/in_review/ro_submitted.pdf) -->[[Video]](https://www.youtube.com/watch?v=eA32XTNRSuY) [[Code]](https://github.com/wuphilipp/replay-overshooting)
+
+Humans are very skilled at spatiotemporal prediction, being able to predict the motion of objects or other agents with fairly minimal observations. This project sought to learn _latent dynamics models_ for the purpose of long-horizon spatiotemporal prediction on robots. As a prerequisite, we must be able to extract _latent states_ from sequences of _observations_. For example, we may be interested in predicting positions of objects (the states) from video frames (the observations). This process is called _posterior inference_.
+
+Many conventional methods in the learning literature conduct posterior inference using an inference network like a bi-RNN, which consumes the data and returns an estimate over some latent state. As it turns out, this is unnecessary, as classical state estimation theory allows approximate inference using methods like the extended Kalman filter, which requires only a dynamics network and an observation model, eliminating the need for a third inference network.
+
+We present results for such a model and also a new learning algorithm called _replay overshooting_ that prioritizes training the dynamics model over the observation model. We show that our method is effective on multiple types of data, such as stripped position data or image sequences, while remaining very parameter-efficient compared to existing methods in the literature. As an added bonus, our method allows seamlessly changing the learned model between discrete and continuous-time, the first such method that natively incorporates both perspectives for dynamics learning.
+
+<details>
+<summary><b>Full Citation</b></summary>
+
+**Albert Hao Li\***, Philipp Wu\*, Monroe Kennedy III, "Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter," _2021 IEEE International Conference on Robotics and Automation (ICRA)_, Xi'an, China, 2021. \*Equal Contribution.
+</details>
+
+<summary><b>Bibtex Citation</b></summary>
+
+```
+@inproceedings{
+  liwu_2021ReplayOvershooting,
+  title={{Replay Overshooting}: Learning Stochastic Latent Dynamics with the
+  Extended Kalman Filter},
+  author={A. {Li} and P. {Wu} and M. {Kennedy}},
+  booktitle={2021 International Conference on Robotics and Automation (ICRA)},
+  year={2021},
+}
+```
+</details>
+
 <details>
 <summary><b>[C2] Ball Juggling on the Bipedal Robot Cassie (2020)</b></summary>
 <div class="boxed">
@@ -167,7 +175,7 @@ Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Li**, David Gealy, Ken Goldber
 </div>
 </details>
 
-## Publications In Review
+<!-- ## Publications In Review
 <details>
 <summary><b>[R1] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (2021)</b></summary>
 <div class="boxed">
@@ -184,7 +192,7 @@ We present results for such a model and also a new learning algorithm called _re
 <summary><b>Full Citation</b></summary>
 
 **Albert Hao Li\***, Philipp Wu\*, Monroe Kennedy III, "Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter," _2021 IEEE International Conference on Robotics and Automation (ICRA)_, Xi'an, China, 2021. \*Equal Contribution.
-</details>
+</details> -->
 
 </div>
 </details>

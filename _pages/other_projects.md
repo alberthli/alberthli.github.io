@@ -24,8 +24,15 @@ This page details non-research projects that I've undertaken personally or for c
 
 Course Project: _Deep Multi-Task and Meta Learning (CS 330)_  
 Stanford University
+Collaborators: [Philipp Wu](https://wuphilipp.github.io/)
 
-This project was my initial attempt at the one-shot learning using meta-EKFs project on my research page. For more detail, see my research blurb about the project. Like in continuous-time neural filters, we approach the problem of meta-learning using classic state estimation techniques. By nature, the Kalman filter is somewhat like an adaptive controller (but "adapting" to unknown states, not system parameters). The key idea here is seeing if we can use a scheme similar to the decades-old [dual estimation](https://papers.nips.cc/paper/1999/file/f50a6c02a3fc5a3a5d4d9391f05f3efc-Paper.pdf) filter schemes to perform task-specific adaptation like in [Model-Agnostic Meta-Learning](https://arxiv.org/pdf/1703.03400.pdf), but backpropagating through filter operations rather than through gradient steps. The report and preliminary results been withheld since this information may make its way into an upcoming paper.
+[[Report]](http://alberthli.github.io/files/other_projects/push_meta_learning/push_report.pdf)
+
+[Meta-learning](https://arxiv.org/pdf/2004.05439.pdf), or learning-to-learn, is a relatively new sub-field in deep learning that involves training machines that are adaptable to a variety of tasks rather than specializing in any particular one. This paradigm is useful when considering cases where data are sparse or when training a model from scratch is simply impractical. Meta-learning is in fact the _default_ mode of learning for humans and other biological organisms: during childhood, we develop very strong priors for how the world roughly operate and tune our expectations when we observe task-specific information. For example, we have strong priors for how projectile motion should look (e.g. tossing a ball in the air), but we can adjust our spatiotemporal predictions of a ball-shaped balloon being thrown after we see it being tossed once.
+
+It's this adaptability that we are targeting in this project. We would like to investigate the _one-shot_ setting, where the agent gets to observe on one trajectory of some task to adjust its task-specific physics-based prior. Then, we would like the agent to predict the rest of any query trajectories we give it. For example, it gets to see some arbitrary object being pushed on a table. Then, given one second of new pushing data, we may ask it to predict the following nine seconds.
+
+The key tool we are using is the extended Kalman filter (with the implementation here piggybacking off of the _Replay Overshooting_ code), which we have used in a learning-based prediction setting with great success for single-task prediction. For this project, we saw reasonable results predicting on various object types in the [MIT Push](https://mcube.mit.edu/push-dataset/index.html) dataset.
 
 </div>
 </details>
@@ -82,9 +89,11 @@ Course Project: _Multi-Robot Control, Communication, and Sensing (AA 277)_
 Stanford University  
 Collaborators: [Bibit Bianchini](http://www.bianchini-love.com/), [Lauren Luo](https://www.linkedin.com/in/lauren-luo-989945b4/)
 
-[[Slides]](https://docs.google.com/presentation/d/1x-2FnyPR2dk_yOQGTGBPL0lex5EPH7kUlvsOLxj1c68/edit?usp=sharing)
+[[Report]](http://alberthli.github.io/files/other_projects/safe_multiagent_collab/multiagent_collab_report.pdf) [[Slides]](https://docs.google.com/presentation/d/1x-2FnyPR2dk_yOQGTGBPL0lex5EPH7kUlvsOLxj1c68/edit?usp=sharing)
 
-This project is my first go at the multi-agent collaborative transport project on my research page. For the research-level detail, see my blurb on the research page. Some of the interesting results from the project implementation are shown here. I've withheld the project report and code, since those will end up being part of the paper results.
+Consider a situation where you are a leader in a group of heterogeneous robotic assistants and you want to carry some heavy object from one location to another through a busy environment. In this scenario, each agent has a distinct field of view, but ultimately would like to enforce some notion of safely carrying the object while still following the leader. Since humans don't have a WiFi or Bluetooth module in their brains, we additionally enforce that the cooperation is done without explicit communication except through sensed forces on the load.
+
+This project studied a heuristically-motivated decentralized dynamical prediction strategy where each agent estimates the aggregate behavior of every other agent in the system and tries to apply an input it believes will keep the load safe using [_control barrier functions_](https://arxiv.org/pdf/1903.11199.pdf). We also developed a notion of _dynamic trust_, which is a way for robots to mediate the amount of faith they have in the group to maintain safety. Our preliminary results in simulation show that this strategy is effective for following a nominal trajectory even when obstacles directly block the motion of the system.
 
 ---
 

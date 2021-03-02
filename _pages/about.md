@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+[[CV]](http://alberthli.github.io/files/cv/CV.pdf)
 
 I am a M.S. student in the Mechanical Engineering department at Stanford University conducting research with [Professor Monroe Kennedy III](https://monroekennedy3.com/) in the [Assistive Robotics and Manipulation (ARM) Lab](https://arm.stanford.edu/). My research interests are eclectic, spanning mechanical design + rapid prototyping, optimal + nonlinear control, dynamical modeling, and deep learning. I'm currently working on safe multi-agent control, human-robot collaboration, and deep dynamical learning in the meta-learning and reinforcement learning settings.
 
