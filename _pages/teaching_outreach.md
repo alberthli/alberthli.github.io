@@ -16,14 +16,19 @@ author_profile: true
 </style>
 
 ## Teaching Assistantships
-In the name of transparency, I will upload official anonymous student evaluations of my performance here.
 
 <details>
-<summary><b>Dynamical Systems, Vibration, and Control (ME161)</b></summary>
+<summary><b>Stanford - Spring 2021 - Advanced Dynamics, Controls and System Identification (ME334)</b></summary>
 <div class="boxed">
 
-Stanford University  
-Fall 2020
+This course discusses topics and methodologies for the analysis of rigid body dynamical systems, including frame transformations, derivation of equations of motion, constraints, D'Alembert's Principle, and both Lagrangian and Hamiltonian dynamics. Secondarily, these concepts are then related to system identification and control theory.
+
+</div>
+</details>
+
+<details>
+<summary><b>Stanford - Fall 2020 - Dynamical Systems, Vibration, and Control (ME161)</b></summary>
+<div class="boxed">
 
 [[Evaluations]](http://alberthli.github.io/files/teaching_evals/me161_evals.pdf)
 
