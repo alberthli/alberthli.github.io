@@ -73,8 +73,6 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 <summary><b>[C3] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (2021)</b></summary>
 <div class="boxed">
 
-**Accepted.**
-
 <!-- [[Paper]](http://alberthli.github.io/files/in_review/ro_submitted.pdf) -->
 [[Paper]](http://alberthli.github.io/files/conference/ro_final.pdf) [[Video]](https://www.youtube.com/watch?v=ZDllbeyhMZg) [[Code]](https://github.com/wuphilipp/replay-overshooting)
 
@@ -99,6 +97,7 @@ We present results for such a model and also a new learning algorithm called _re
   title={Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter},
   author={A. {Li} and P. {Wu} and M. {Kennedy}},
   booktitle={2021 International Conference on Robotics and Automation (ICRA)},
+  address={Xi'an, China},
   year={2021},
 }
 ```
