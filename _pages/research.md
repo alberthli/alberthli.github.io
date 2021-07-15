@@ -17,6 +17,7 @@ author_profile: true
 
 This page lists my accepted/in-review publications with more detail, links to the papers, and supplemental material like media, code, and citations. I also provide short descriptions of my current research, but withhold some of the important technical details since the work is ongoing. Click on project titles to see more detail. For more information on my current research, please email me directly. For a more condensed overview of my research, look at my CV.
 
+<!--
 ## Current Research
 <details>
 <summary><b>Human-Robot Cooperative Transport</b></summary>
@@ -29,6 +30,7 @@ Consider an episodic setting where a robotic assistant and a human would like to
 This project studies the reinforcement learning setting where the robot may learn a conditional policy and an encoder for the human strategy, updating its models after each episode. Our goal is to replicate human-human behavior during the cooperative carrying process, so there may be a pre-training period to initialize the robot policy, followed by episodic adapatation. We are currently setting up a virtual simulation environment for human-human games for initial training data and will move to a physical platform for both data collection and model training later in 2021.
 </div>
 </details>
+-->
 
 ## Journal Publications
 <details>
