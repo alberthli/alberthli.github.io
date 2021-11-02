@@ -87,7 +87,7 @@ We present results for such a model and also a new learning algorithm called _re
 <details>
 <summary><b>Full Citation</b></summary>
 
-**Albert Hao Li\***, Philipp Wu\*, Monroe Kennedy III, "Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter," _2021 IEEE International Conference on Robotics and Automation (ICRA)_, Xi'an, China, 2021. \*Equal Contribution.
+**Albert Hao Li\***, Philipp Wu\*, Monroe Kennedy III, "Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter," _2021 IEEE International Conference on Robotics and Automation (ICRA)_, Xi'an, China, 2021, pp. 852-858. \*Equal Contribution.
 </details>
 
 <details>
@@ -101,6 +101,7 @@ We present results for such a model and also a new learning algorithm called _re
   booktitle={2021 International Conference on Robotics and Automation (ICRA)},
   address={Xi'an, China},
   year={2021},
+  pages={852-858},
 }
 ```
 </details>
