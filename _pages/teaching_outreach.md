@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching and Outreach"
+title: "Teaching"
 permalink: /teaching_outreach/
 author_profile: true
 ---
@@ -14,8 +14,6 @@ author_profile: true
     border-radius: 10px;
   }
 </style>
-
-## Teaching Assistantships
 
 - **Stanford - Spring 2021 - Advanced Dynamics, Controls and System Identification (ME334)**  
 [[Evaluations]](http://alberthli.github.io/files/teaching_evals/me334_evals.pdf)  
