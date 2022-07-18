@@ -24,6 +24,7 @@ author_profile: true
     <summary>Full Citation</summary>
 
     Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, "Inverse Statics Optimization for Compound Tensegrity Robots," _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020.
+
   </details>
 
   <details>
@@ -41,6 +42,7 @@ author_profile: true
       pages={3982-3989},  
     }
     ```
+    
   </details>
 
 ## Conference Publications
