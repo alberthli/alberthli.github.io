@@ -15,26 +15,12 @@ author_profile: true
   }
 </style>
 
-<!--
-## Current Research
-<details>
-<summary><b>Human-Robot Cooperative Transport</b></summary>
-<div class="boxed">
-
-Collaborators: [Eley Ng](https://www.linkedin.com/in/eleyng/), [J.D. Kelly](https://www.linkedin.com/in/jd-kelly/), [Dylan Losey](https://dylanlosey.com/), [Dorsa Sadigh](https://dorsa.fyi/), [Monroe Kennedy III](https://monroekennedy3.com/)
-
-Consider an episodic setting where a robotic assistant and a human would like to carry an object through an environment. After some period of time, the robotic agent may develop some idea of the strategy employed by the human when carrying the object, and could use this to condition its own control strategy to best achieve consensus during the carrying process.
-
-This project studies the reinforcement learning setting where the robot may learn a conditional policy and an encoder for the human strategy, updating its models after each episode. Our goal is to replicate human-human behavior during the cooperative carrying process, so there may be a pre-training period to initialize the robot policy, followed by episodic adapatation. We are currently setting up a virtual simulation environment for human-human games for initial training data and will move to a physical platform for both data collection and model training later in 2021.
-</div>
-</details>
--->
-
 ## Journal Publications
-<b>[J1] Inverse Statics Optimization for Compound Tensegrity Robots (2020)<b>
+**[J1] Inverse Statics Optimization for Compound Tensegrity Robots (2020)**
+
 [[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
-<details><!-- 
+<!-- <details>
 <summary><b>[J1] Inverse Statics Optimization for Compound Tensegrity Robots (2020)</b></summary>
 
 <div class="boxed">
@@ -69,15 +55,23 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
 ```
 </details>
 
-</div>
-</details>
-
 ## Conference Publications
-<details>
+**[C3] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (2021)**
+
+[[Paper]](http://alberthli.github.io/files/conference/ro_final.pdf) [[Video]](https://www.youtube.com/watch?v=ZDllbeyhMZg) [[Code]](https://github.com/wuphilipp/replay-overshooting)
+
+**[C2] Ball Juggling on the Bipedal Robot Cassie (2020)**
+
+[[Paper]](http://alberthli.github.io/files/conference/cassie.pdf) [[Video]](https://www.youtube.com/watch?v=tLrz_R_T6kg) [[Media]](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uc-berkeley-cassie-cal-robot-juggle)
+
+**[C1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning (2018)**
+
+[[Paper]](http://alberthli.github.io/files/conference/dexnet.pdf) [[Video]](https://www.youtube.com/watch?v=dZIHmcaTJ_c&feature=emb_title) [[Code]](https://github.com/BerkeleyAutomation/dex-net)
+
+<!-- <details>
 <summary><b>[C3] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (2021)</b></summary>
 <div class="boxed">
 
-<!-- [[Paper]](http://alberthli.github.io/files/in_review/ro_submitted.pdf) -->
 [[Paper]](http://alberthli.github.io/files/conference/ro_final.pdf) [[Video]](https://www.youtube.com/watch?v=ZDllbeyhMZg) [[Code]](https://github.com/wuphilipp/replay-overshooting)
 
 Humans are very skilled at spatiotemporal prediction, being able to predict the motion of objects or other agents with fairly minimal observations. This project sought to learn _latent dynamics models_ for the purpose of long-horizon spatiotemporal prediction on robots. As a prerequisite, we must be able to extract _latent states_ from sequences of _observations_. For example, we may be interested in predicting positions of objects (the states) from video frames (the observations). This process is called _posterior inference_.
@@ -108,9 +102,9 @@ We present results for such a model and also a new learning algorithm called _re
 ```
 </details>
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary><b>[C2] Ball Juggling on the Bipedal Robot Cassie (2020)</b></summary>
 <div class="boxed">
 
@@ -145,9 +139,9 @@ Katherine Lin Poggensee\*, **Albert Hao Li\***, Daniel Sotsaikich\*, Bike Zhang,
 </details>
 
 </div>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary><b>[C1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning (2018)</b></summary>
 <div class="boxed">
 
@@ -180,7 +174,7 @@ Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Li**, David Gealy, Ken Goldber
 </details>
 
 </div>
-</details>
+</details> -->
 
 <!-- ## Publications In Review
 <details>
@@ -201,5 +195,5 @@ We present results for such a model and also a new learning algorithm called _re
 **Albert Hao Li\***, Philipp Wu\*, Monroe Kennedy III, "Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter," _2021 IEEE International Conference on Robotics and Automation (ICRA)_, Xi'an, China, 2021. \*Equal Contribution.
 </details> -->
 
-</div>
-</details>
+<!-- </div>
+</details> -->
