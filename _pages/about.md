@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[[CV]](http://alberthli.github.io/files/cv/CV.pdf) (updated May 2021)
+[[CV]](http://alberthli.github.io/files/cv/CV.pdf) (updated July 2022)
 
 I am a Ph.D. student and [Kortschak Scholar](https://cms.caltech.edu/research/kortschak-scholars) studying Control and Dynamical Systems (CDS) in the [Computing and Mathematical Sciences](https://www.cms.caltech.edu/) department at the California Institute of Technology (Caltech). My research interests lie in nonlinear control theory, safety, and the intersection between control theory and machine learning as applied to robotics.
 
