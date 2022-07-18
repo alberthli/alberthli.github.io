@@ -16,8 +16,7 @@ author_profile: true
 </style>
 
 ## Journal Publications
-**[J1] Inverse Statics Optimization for Compound Tensegrity Robots (2020)**
-
+**[J1] Inverse Statics Optimization for Compound Tensegrity Robots (2020)**\
 [[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
 <!-- <details>
@@ -32,7 +31,7 @@ author_profile: true
 This project studied what we term _compound tensegrities_, whose rigid elements are not just purely compressive bars, but can take on any arbitrary geometry (and therefore also admit net moments about each rigid body). This allows more faithful bio-inspired designs at the expense of complicating traditional tensegrity modeling techniques. In our work, we reformulate the classic _force density method_ used for computing equilibrium forces in network structures to allow for analysis of compound tensegrities and derive a fast optimization-based shape controller that can also be used for quasi-static position control. Finally, the method is validated both in simulation and on a simple hardware test case.
 </details> -->
 
-<details>
+<!-- <details>
 <summary><b>Full Citation</b></summary>
 
 Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, "Inverse Statics Optimization for Compound Tensegrity Robots," _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020.
@@ -53,19 +52,16 @@ Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andr
   pages={3982-3989},  
 }
 ```
-</details>
+</details> -->
 
 ## Conference Publications
-**[C3] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (2021)**
-
+**[C3] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (2021)**\
 [[Paper]](http://alberthli.github.io/files/conference/ro_final.pdf) [[Video]](https://www.youtube.com/watch?v=ZDllbeyhMZg) [[Code]](https://github.com/wuphilipp/replay-overshooting)
 
-**[C2] Ball Juggling on the Bipedal Robot Cassie (2020)**
-
+**[C2] Ball Juggling on the Bipedal Robot Cassie (2020)**\
 [[Paper]](http://alberthli.github.io/files/conference/cassie.pdf) [[Video]](https://www.youtube.com/watch?v=tLrz_R_T6kg) [[Media]](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uc-berkeley-cassie-cal-robot-juggle)
 
-**[C1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning (2018)**
-
+**[C1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning (2018)**\
 [[Paper]](http://alberthli.github.io/files/conference/dexnet.pdf) [[Video]](https://www.youtube.com/watch?v=dZIHmcaTJ_c&feature=emb_title) [[Code]](https://github.com/BerkeleyAutomation/dex-net)
 
 <!-- <details>
