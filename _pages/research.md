@@ -22,14 +22,9 @@ author_profile: true
   Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, Alice Agogino\
   [[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
-  <details>
-    <summary>test</summary>
-    asdf
-    <!-- Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, "Inverse Statics Optimization for Compound Tensegrity Robots," _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020. -->
-  </details>
+  <!-- <details><summary>Full Citation</summary>Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, "Inverse Statics Optimization for Compound Tensegrity Robots," _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020.</details>
 
-<!--   <details>
-    <summary>Bibtex Citation</summary>
+  <details><summary>Bibtex Citation</summary>
     ```
     @article{
       Sabelhaus2020_invstatopt,  
@@ -49,7 +44,7 @@ author_profile: true
 
 ## Conference Publications
 
-<ul>
+<!-- <ul>
   <li>**[C3] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (2021)**\
   **Albert Hao Li\***, Philipp Wu\*, Monroe Kennedy III\
   [[Paper]](http://alberthli.github.io/files/conference/ro_final.pdf) [[Video]](https://www.youtube.com/watch?v=ZDllbeyhMZg) [[Code]](https://github.com/wuphilipp/replay-overshooting)
@@ -64,6 +59,10 @@ author_profile: true
   Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Hao Li**, David Gealy, Ken Goldberg\
   [[Paper]](http://alberthli.github.io/files/conference/dexnet.pdf) [[Video]](https://www.youtube.com/watch?v=dZIHmcaTJ_c&feature=emb_title) [[Code]](https://github.com/BerkeleyAutomation/dex-net)
   </li>
+</ul> -->
+<ul>
+  <li>asdf</li>
+  <li>asdf</li>
 </ul>
 
 <!-- <details>
