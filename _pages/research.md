@@ -23,14 +23,13 @@ author_profile: true
   [[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
 
   <details>
-    <summary>Full Citation</summary>
-
-    Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, "Inverse Statics Optimization for Compound Tensegrity Robots," _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020.
+    <summary>test</summary>
+    asdf
+    <!-- Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, "Inverse Statics Optimization for Compound Tensegrity Robots," _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020. -->
   </details>
 
-  <details>
+<!--   <details>
     <summary>Bibtex Citation</summary>
-
     ```
     @article{
       Sabelhaus2020_invstatopt,  
@@ -43,45 +42,10 @@ author_profile: true
       pages={3982-3989},  
     }
     ```
-  </details>
-  
+  </details> -->
+
   </li>
 </ul>
-
-<!-- <details>
-<summary><b>[J1] Inverse Statics Optimization for Compound Tensegrity Robots (2020)</b></summary>
-
-<div class="boxed">
-
-[[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)
-
-[_Tensegrities_](https://en.wikipedia.org/wiki/Tensegrity) are structures traditionally comprised of rigid bars held in equilibrium by a network of cables. Originally explored by architects and civil engineers, it was not until relatively recently that actuated tensegrities were studied in the field of robotics. As robots, tensegrities enjoy benefits such as lightweight construction and adjustable compliance, exhibiting features of both fully rigid and fully soft robots.
-
-This project studied what we term _compound tensegrities_, whose rigid elements are not just purely compressive bars, but can take on any arbitrary geometry (and therefore also admit net moments about each rigid body). This allows more faithful bio-inspired designs at the expense of complicating traditional tensegrity modeling techniques. In our work, we reformulate the classic _force density method_ used for computing equilibrium forces in network structures to allow for analysis of compound tensegrities and derive a fast optimization-based shape controller that can also be used for quasi-static position control. Finally, the method is validated both in simulation and on a simple hardware test case.
-</details> -->
-
-<!-- <details>
-<summary><b>Full Citation</b></summary>
-
-Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, "Inverse Statics Optimization for Compound Tensegrity Robots," _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020.
-</details>
-
-<details>
-<summary><b>Bibtex Citation</b></summary>
-
-```
-@article{
-  Sabelhaus2020_invstatopt,  
-  title={Inverse Statics Optimization for Compound Tensegrity Robots},  
-  author={Sabelhaus, Andrew Preston and Li, Albert Hao and Sover, Kimberley and Madden, Jacob and Barkan, Andrew and Agogino, Adrian and Agogino, Alice},  
-  journal={IEEE Robotics and Automation Letters},  
-  volume={5},  
-  number={3},  
-  year={2020},  
-  pages={3982-3989},  
-}
-```
-</details> -->
 
 ## Conference Publications
 
