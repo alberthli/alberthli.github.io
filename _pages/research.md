@@ -49,6 +49,7 @@ author_profile: true
 
 - **[C3] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (2021)**  
   **Albert Hao Li\***, Philipp Wu\*, Monroe Kennedy III  
+  \* Equal Contribution  
   [[Paper]](http://alberthli.github.io/files/conference/ro_final.pdf) [[Video]](https://www.youtube.com/watch?v=ZDllbeyhMZg) [[Code]](https://github.com/wuphilipp/replay-overshooting)
   <!-- <details>
     <summary><b>Full Citation</b></summary>
@@ -74,6 +75,7 @@ author_profile: true
 
 - **[C2] Ball Juggling on the Bipedal Robot Cassie (2020)**  
   Katherine Lin Poggensee\*, **Albert Hao Li\***, Daniel Sotsaikich\*, Bike Zhang, Prasanth Kotaru, Mark Mueller, and Koushil Sreenath  
+  \* Equal Contribution  
   [[Paper]](http://alberthli.github.io/files/conference/cassie.pdf) [[Video]](https://www.youtube.com/watch?v=tLrz_R_T6kg) [[Media]](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uc-berkeley-cassie-cal-robot-juggle)
   <!-- <details>
     <summary><b>Full Citation</b></summary>
