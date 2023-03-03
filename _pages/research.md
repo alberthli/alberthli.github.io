@@ -18,7 +18,7 @@ author_profile: true
 ## Preprints
 
 - **[P1] FRoGGeR: Fast Robust Grasp Generation via the Min-Weight Metric (2023)**  
-  **Albert Hao Li**, Preston Culbertson, Joel W. Burdick, Aaron Ames
+  **Albert Hao Li**, Preston Culbertson, Joel W. Burdick, Aaron Ames  
   [[Paper]](https://arxiv.org/abs/2302.13687) [[Code]](https://github.com/alberthli/frogger)
 
 ## Journal Publications
