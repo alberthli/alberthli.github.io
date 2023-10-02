@@ -17,9 +17,9 @@ author_profile: true
 
 ## Preprints
 
-- **[P1] FRoGGeR: Fast Robust Grasp Generation via the Min-Weight Metric (2023)**  
-  **Albert Hao Li**, Preston Culbertson, Joel W. Burdick, Aaron Ames  
-  [[Paper]](https://arxiv.org/abs/2302.13687) [[Code]](https://github.com/alberthli/frogger)
+- **[P1] PONG: Probabilistic Object Normals for Grasping via Analytic Bounds on Force Closure Probability (2023)**  
+  **Albert Hao Li**, Preston Culbertson, Aaron Ames  
+  [[Paper]](https://arxiv.org/abs/2309.16930) [[Code (under construction)]](https://github.com/alberthli/pong)
 
 ## Journal Publications
 
@@ -52,6 +52,10 @@ author_profile: true
   </details> -->
 
 ## Conference Publications
+
+- **[C4] FRoGGeR: Fast Robust Grasp Generation via the Min-Weight Metric (2023)**  
+  **Albert Hao Li**, Preston Culbertson, Joel W. Burdick, Aaron Ames  
+  [[Paper]](https://arxiv.org/abs/2302.13687) [[Code]](https://github.com/alberthli/frogger)
 
 - **[C3] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (2021)**  
   **Albert Hao Li\***, Philipp Wu\*, Monroe Kennedy III  
