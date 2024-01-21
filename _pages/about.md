@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[[CV]](http://alberthli.github.io/files/cv/CV.pdf) (updated October 2023)
+[[CV]](http://alberthli.github.io/files/cv/CV.pdf) (updated January 2024)
 
 I am a Ph.D. student and [Kortschak Scholar](https://cms.caltech.edu/research/kortschak-scholars) studying Control and Dynamical Systems (CDS) in the [Computing and Mathematical Sciences](https://www.cms.caltech.edu/) department at the California Institute of Technology (Caltech). I am advised by Prof. Aaron Ames. My research interests lie in nonlinear control theory, safety, and the intersection between control theory and machine learning as applied to robotics, and in particular, dexterous manipulation.
 
