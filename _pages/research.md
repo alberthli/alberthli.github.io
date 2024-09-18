@@ -18,6 +18,7 @@ author_profile: true
 ## Preprints
 - **[P1] DROP: Dexterous Reorientation via Online Planning (ICRA 2025)**  
   **Albert Hao Li**, Preston Culbertson, Vince Kurtz Aaron Ames  
+  [Paper and Code coming soon]
 
 ## Journal Publications
 
@@ -54,7 +55,7 @@ author_profile: true
 - **[C6] Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer (CoRL 2024)**  
   Tyler Ga Wei Lum*, **Albert Hao Li\***, Preston Culbertson, Krishnan Srinivasan, Aaron D. Ames, Mac Schwager, Jeannette Bohg  
   \* Equal Contribution  
-  [[Paper]](https://arxiv.org/abs/2403.07249)  
+  [[Paper]](https://openreview.net/forum?id=1jc2zA5Z6J) [Code and Dataset coming soon]
 
 - **[C5] Toward An Analytic Theory of Intrinsic Robustness for Dexterous Grasping (IROS 2024)**  
   (Formerly "PONG: Probabilistic Object Normals for Grasping via Analytic Bounds on Force Closure Probability")  
