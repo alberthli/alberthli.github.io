@@ -16,12 +16,12 @@ author_profile: true
 </style>
 
 ## Preprints
-- **[P1] DROP: Dexterous Reorientation via Online Planning (2025)**  
+- **[P1] DROP: Dexterous Reorientation via Online Planning (ICRA 2025)**  
   **Albert Hao Li**, Preston Culbertson, Vince Kurtz Aaron Ames  
 
 ## Journal Publications
 
-- **[J1] Inverse Statics Optimization for Compound Tensegrity Robots (2020)**  
+- **[J1] Inverse Statics Optimization for Compound Tensegrity Robots (RA-L 2020)**  
   Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, Alice Agogino  
   [[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)  
   <!-- <details>
@@ -51,27 +51,23 @@ author_profile: true
 
 ## Conference Publications
 
-- **[C6] Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer (2024)**  
+- **[C6] Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer (CoRL 2024)**  
   Tyler Ga Wei Lum*, **Albert Hao Li\***, Preston Culbertson, Krishnan Srinivasan, Aaron D. Ames, Mac Schwager, Jeannette Bohg  
-  Conference on Robot Learning (CoRL)  
+  \* Equal Contribution  
   [[Paper]](https://arxiv.org/abs/2403.07249)  
-  \* Equal Contribution
 
-- **[C5] Toward An Analytic Theory of Intrinsic Robustness for Dexterous Grasping (2024)**  
+- **[C5] Toward An Analytic Theory of Intrinsic Robustness for Dexterous Grasping (IROS 2024)**  
   (Formerly "PONG: Probabilistic Object Normals for Grasping via Analytic Bounds on Force Closure Probability")  
   **Albert Hao Li**, Preston Culbertson, Aaron Ames  
-  International Conference on Intelligent Robots and Systems (IROS)  
   [[Paper]](https://arxiv.org/abs/2403.07249)
 
-- **[C4] FRoGGeR: Fast Robust Grasp Generation via the Min-Weight Metric (2023)**  
+- **[C4] FRoGGeR: Fast Robust Grasp Generation via the Min-Weight Metric (IROS 2023)**  
   **Albert Hao Li**, Preston Culbertson, Joel W. Burdick, Aaron Ames  
-  International Conference on Intelligent Robots and Systems (IROS)  
   [[Paper]](https://arxiv.org/abs/2302.13687) [[Code]](https://github.com/alberthli/frogger)
 
-- **[C3] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (2021)**  
+- **[C3] Replay Overshooting: Learning Stochastic Latent Dynamics with the Extended Kalman Filter (ICRA 2021)**  
   **Albert Hao Li\***, Philipp Wu\*, Monroe Kennedy III  
   \* Equal Contribution  
-  International Conference on Robotics and Automation (ICRA)  
   [[Paper]](http://alberthli.github.io/files/conference/ro_final.pdf) [[Video]](https://www.youtube.com/watch?v=ZDllbeyhMZg) [[Code]](https://github.com/wuphilipp/replay-overshooting)
   <!-- <details>
     <summary><b>Full Citation</b></summary>
@@ -95,10 +91,9 @@ author_profile: true
     ```
     </details> -->
 
-- **[C2] Ball Juggling on the Bipedal Robot Cassie (2020)**  
+- **[C2] Ball Juggling on the Bipedal Robot Cassie (ECC 2020)**  
   Katherine Lin Poggensee\*, **Albert Hao Li\***, Daniel Sotsaikich\*, Bike Zhang, Prasanth Kotaru, Mark Mueller, and Koushil Sreenath  
   \* Equal Contribution  
-  European Control Conference (ECC)  
   [[Paper]](http://alberthli.github.io/files/conference/cassie.pdf) [[Video]](https://www.youtube.com/watch?v=tLrz_R_T6kg) [[Media]](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uc-berkeley-cassie-cal-robot-juggle)
   <!-- <details>
     <summary><b>Full Citation</b></summary>
@@ -122,9 +117,8 @@ author_profile: true
     ```
   </details> -->
 
-- **[C1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning (2018)**  
+- **[C1] Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning (ICRA 2018)**  
   Jeffrey Mahler, Matthew Matl, Xinyi Liu, **Albert Hao Li**, David Gealy, Ken Goldberg  
-  International Conference on Robotics and Automation (ICRA)  
   [[Paper]](http://alberthli.github.io/files/conference/dexnet.pdf) [[Video]](https://www.youtube.com/watch?v=dZIHmcaTJ_c&feature=emb_title) [[Code]](https://github.com/BerkeleyAutomation/dex-net)
   <!-- <details>
     <summary><b>Full Citation</b></summary>
