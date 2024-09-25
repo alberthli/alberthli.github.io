@@ -18,7 +18,7 @@ author_profile: true
 ## Preprints
 - **[P1] DROP: Dexterous Reorientation via Online Planning (ICRA 2025)**  
   **Albert Hao Li**, Preston Culbertson, Vince Kurtz Aaron Ames  
-  [Paper and Code coming soon]
+  [[Paper]](https://arxiv.org/abs/2409.14562) [[Website]](https://caltech-amber.github.io/drop/)
 
 ## Journal Publications
 
