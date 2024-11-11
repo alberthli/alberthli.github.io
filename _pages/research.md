@@ -29,7 +29,7 @@ author_profile: true
 - **[C6] Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer (CoRL 2024)**  
   Tyler Ga Wei Lum*, **Albert Hao Li\***, Preston Culbertson, Krishnan Srinivasan, Aaron D. Ames, Mac Schwager, Jeannette Bohg  
   \* Equal Contribution  
-  [[Paper]](https://openreview.net/forum?id=1jc2zA5Z6J) [Code and Dataset coming soon]
+  [[Paper]](https://arxiv.org/abs/2410.23701) [[Website]](https://sites.google.com/view/get-a-grip-dataset) [[Code & Dataset]](https://github.com/tylerlum/get_a_grip) [[Dataset Visualizer]](https://get-a-grip.streamlit.app/)
 
 - **[C5] Toward An Analytic Theory of Intrinsic Robustness for Dexterous Grasping (IROS 2024)**  
   (Formerly "PONG: Probabilistic Object Normals for Grasping via Analytic Bounds on Force Closure Probability")  
