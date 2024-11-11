@@ -18,7 +18,7 @@ author_profile: true
 ## Preprints
 - **[P1] DROP: Dexterous Reorientation via Online Planning (ICRA 2025)**  
   **Albert Hao Li**, Preston Culbertson, Vince Kurtz, Aaron D. Ames  
-  ($${\color{blue}\textbf{Best Paper Award}}$$ at CoRL 2024 Workshop on _Learning Robot Fine and Dexterous Manipulation_)  
+  (**Best Paper Award** at CoRL 2024 Workshop on _Learning Robot Fine and Dexterous Manipulation_)  
   [[Paper]](https://arxiv.org/abs/2409.14562) [[Website]](https://caltech-amber.github.io/drop/)
 
 - **[P2] Robust Adaptive Safe Robotic Grasping with Tactile Sensing (ECC 2025)**  
