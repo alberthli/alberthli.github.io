@@ -24,36 +24,6 @@ author_profile: true
 - **[P2] Robust Adaptive Safe Robotic Grasping with Tactile Sensing (ECC 2025)**  
   Yitaek Kim, Jeeseop Kim, **Albert Hao Li**, Aaron D. Ames, Christoffer Sloth
 
-## Journal Publications
-
-- **[J1] Inverse Statics Optimization for Compound Tensegrity Robots (RA-L 2020)**  
-  Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, Alice Agogino  
-  [[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)  
-  <!-- <details>
-    <summary>Full Citation</summary>
-
-    Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, "Inverse Statics Optimization for Compound Tensegrity Robots," _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020.
-
-  </details>
-
-  <details>
-    <summary>Bibtex Citation</summary>
-
-    ```
-    @article{  
-      Sabelhaus2020_invstatopt,  
-      title={Inverse Statics Optimization for Compound Tensegrity Robots},  
-      author={Sabelhaus, Andrew Preston and Li, Albert Hao and Sover, Kimberley and Madden, Jacob and Barkan, Andrew and Agogino, Adrian and Agogino, Alice},  
-      journal={IEEE Robotics and Automation Letters},  
-      volume={5},  
-      number={3},  
-      year={2020},  
-      pages={3982-3989},  
-    }
-    ```
-
-  </details> -->
-
 ## Conference Publications
 
 - **[C6] Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer (CoRL 2024)**  
@@ -145,4 +115,34 @@ author_profile: true
       pages={5620-5627},  
     }
     ```
+  </details> -->
+
+## Journal Publications
+
+- **[J1] Inverse Statics Optimization for Compound Tensegrity Robots (RA-L 2020)**  
+  Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, Alice Agogino  
+  [[Paper]](http://alberthli.github.io/files/journal/invstatopt.pdf) [[Code]](https://github.com/apsabelhaus/tiso)  
+  <!-- <details>
+    <summary>Full Citation</summary>
+
+    Andrew Preston Sabelhaus, **Albert Hao Li**, Kimberley Sover, Jacob Madden, Andrew Barkan, Adrian Agogino, and Alice Agogino, "Inverse Statics Optimization for Compound Tensegrity Robots," _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 3982-3989, 2020.
+
+  </details>
+
+  <details>
+    <summary>Bibtex Citation</summary>
+
+    ```
+    @article{  
+      Sabelhaus2020_invstatopt,  
+      title={Inverse Statics Optimization for Compound Tensegrity Robots},  
+      author={Sabelhaus, Andrew Preston and Li, Albert Hao and Sover, Kimberley and Madden, Jacob and Barkan, Andrew and Agogino, Adrian and Agogino, Alice},  
+      journal={IEEE Robotics and Automation Letters},  
+      volume={5},  
+      number={3},  
+      year={2020},  
+      pages={3982-3989},  
+    }
+    ```
+
   </details> -->
