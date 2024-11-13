@@ -22,7 +22,8 @@ author_profile: true
   [[Paper]](https://arxiv.org/abs/2409.14562) [[Website]](https://caltech-amber.github.io/drop/)
 
 - **[P2] Robust Adaptive Safe Robotic Grasping with Tactile Sensing (ECC 2025)**  
-  Yitaek Kim, Jeeseop Kim, **Albert Hao Li**, Aaron D. Ames, Christoffer Sloth
+  Yitaek Kim, Jeeseop Kim, **Albert Hao Li**, Aaron D. Ames, Christoffer Sloth  
+  [[Paper]](https://arxiv.org/abs/2411.07833)
 
 ## Conference Publications
 
