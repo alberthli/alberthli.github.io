@@ -16,16 +16,17 @@ author_profile: true
 </style>
 
 ## Preprints
-- **[P1] DROP: Dexterous Reorientation via Online Planning (ICRA 2025)**  
-  **Albert Hao Li**, Preston Culbertson, Vince Kurtz, Aaron D. Ames  
-  (**Best Paper Award** at CoRL 2024 Workshop on _Learning Robot Fine and Dexterous Manipulation_)  
-  [[Paper]](https://arxiv.org/abs/2409.14562) [[Website]](https://caltech-amber.github.io/drop/)
 
-- **[P2] Robust Adaptive Safe Robotic Grasping with Tactile Sensing (ECC 2025)**  
+- **[P1] Robust Adaptive Safe Robotic Grasping with Tactile Sensing (ECC 2025)**  
   Yitaek Kim, Jeeseop Kim, **Albert Hao Li**, Aaron D. Ames, Christoffer Sloth  
   [[Paper]](https://arxiv.org/abs/2411.07833)
 
 ## Conference Publications
+
+- **[C7] DROP: Dexterous Reorientation via Online Planning (ICRA 2025)**  
+  **Albert Hao Li**, Preston Culbertson, Vince Kurtz, Aaron D. Ames  
+  (**Best Paper Award** at CoRL 2024 Workshop on _Learning Robot Fine and Dexterous Manipulation_)  
+  [[Paper]](https://arxiv.org/abs/2409.14562) [[Website]](https://caltech-amber.github.io/drop/)
 
 - **[C6] Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer (CoRL 2024)**  
   Tyler Ga Wei Lum*, **Albert Hao Li\***, Preston Culbertson, Krishnan Srinivasan, Aaron D. Ames, Mac Schwager, Jeannette Bohg  
