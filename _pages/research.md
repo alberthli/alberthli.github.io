@@ -17,11 +17,12 @@ author_profile: true
 
 ## Preprints
 
-- **[P1] Robust Adaptive Safe Robotic Grasping with Tactile Sensing (ECC 2025)**  
-  Yitaek Kim, Jeeseop Kim, **Albert Hao Li**, Aaron D. Ames, Christoffer Sloth  
-  [[Paper]](https://arxiv.org/abs/2411.07833)
 
 ## Conference Publications
+
+- **[C8] Robust Adaptive Safe Robotic Grasping with Tactile Sensing (ECC 2025)**  
+  Yitaek Kim, Jeeseop Kim, **Albert Hao Li**, Aaron D. Ames, Christoffer Sloth  
+  [[Paper]](https://arxiv.org/abs/2411.07833)
 
 - **[C7] DROP: Dexterous Reorientation via Online Planning (ICRA 2025)**  
   **Albert Hao Li**, Preston Culbertson, Vince Kurtz, Aaron D. Ames  
