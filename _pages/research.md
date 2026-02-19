@@ -15,10 +15,16 @@ author_profile: true
   }
 </style>
 
-## Preprints
-
-
 ## Conference Publications
+
+- **[C10] KALIKO: Kalman-Implicit Koopman Operator Learning For Prediction of Nonlinear Dynamical Systems (ICRA 2026)**  
+  **Albert Hao Li\***, Ivan Dario Rodriguez Jimenez\*, Joel W. Burdick, Yisong Yue, Aaron D. Ames  
+  \* Equal Contribution  
+  [[Paper]](https://arxiv.org/abs/2512.03256)
+
+- **[C9] Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control (ICRA 2026)**  
+  **Albert Hao Li**, John Z. Zhang, Jan Brüdigam, Brandon Hung, Aaron D. Ames, Jiuguang Wang, Simon Le Cleac'h, Preston Culbertson  
+  [Paper Released Soon] [[Code]](https://github.com/bdaiinstitute/judo)
 
 - **[C8] Robust Adaptive Safe Robotic Grasping with Tactile Sensing (ECC 2025)**  
   Yitaek Kim, Jeeseop Kim, **Albert Hao Li**, Aaron D. Ames, Christoffer Sloth  
